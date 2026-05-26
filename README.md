@@ -31,7 +31,13 @@ iceland-tourism-analysis/
 3. **COVID impact & recovery** — YoY change analysis
 4. **Source markets** — top countries via Keflavik airport
 5. **Regional occupancy** — hotel occupancy by region
+
+## 📸 Dashboard Preview
+
+### Overview
 <img width="2042" height="1142" alt="Zrzut ekranu 2026-05-26 142214" src="https://github.com/user-attachments/assets/6eb6485f-1819-47f1-b96e-f77d0bfa05f1" />
+
+### COVID-19 Impact & Recovery
 <img width="2038" height="1132" alt="Zrzut ekranu 2026-05-26 142223" src="https://github.com/user-attachments/assets/cbcc38ea-76dd-4dd3-9b20-2edf79edc481" />
 
 ## 🚀 How to Run
