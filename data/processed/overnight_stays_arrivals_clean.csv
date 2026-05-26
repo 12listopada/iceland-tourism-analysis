@@ -1,0 +1,2035 @@
+Month,Citizenship,Value,Year,Unit,Month_num
+January,Total,11011.0,1998,Arrivals,1
+January,Icelanders,6585.0,1998,Arrivals,1
+January,Foreigners,4426.0,1998,Arrivals,1
+January,Total,22942.0,1998,Overnight stays,1
+January,Icelanders,10537.0,1998,Overnight stays,1
+January,Foreigners,12405.0,1998,Overnight stays,1
+February,Total,16321.0,1998,Arrivals,2
+February,Icelanders,9080.0,1998,Arrivals,2
+February,Foreigners,7241.0,1998,Arrivals,2
+February,Total,33949.0,1998,Overnight stays,2
+February,Icelanders,14427.0,1998,Overnight stays,2
+February,Foreigners,19522.0,1998,Overnight stays,2
+March,Total,22374.0,1998,Arrivals,3
+March,Icelanders,11811.0,1998,Arrivals,3
+March,Foreigners,10563.0,1998,Arrivals,3
+March,Total,48380.0,1998,Overnight stays,3
+March,Icelanders,20316.0,1998,Overnight stays,3
+March,Foreigners,28064.0,1998,Overnight stays,3
+April,Total,22075.0,1998,Arrivals,4
+April,Icelanders,10038.0,1998,Arrivals,4
+April,Foreigners,12037.0,1998,Arrivals,4
+April,Total,48453.0,1998,Overnight stays,4
+April,Icelanders,16074.0,1998,Overnight stays,4
+April,Foreigners,32379.0,1998,Overnight stays,4
+May,Total,28738.0,1998,Arrivals,5
+May,Icelanders,11035.0,1998,Arrivals,5
+May,Foreigners,17703.0,1998,Arrivals,5
+May,Total,62283.0,1998,Overnight stays,5
+May,Icelanders,17046.0,1998,Overnight stays,5
+May,Foreigners,45237.0,1998,Overnight stays,5
+June,Total,39882.0,1998,Arrivals,6
+June,Icelanders,9367.0,1998,Arrivals,6
+June,Foreigners,30515.0,1998,Arrivals,6
+June,Total,80720.0,1998,Overnight stays,6
+June,Icelanders,13787.0,1998,Overnight stays,6
+June,Foreigners,66933.0,1998,Overnight stays,6
+July,Total,63552.0,1998,Arrivals,7
+July,Icelanders,11026.0,1998,Arrivals,7
+July,Foreigners,52526.0,1998,Arrivals,7
+July,Total,108681.0,1998,Overnight stays,7
+July,Icelanders,14630.0,1998,Overnight stays,7
+July,Foreigners,94051.0,1998,Overnight stays,7
+August,Total,60347.0,1998,Arrivals,8
+August,Icelanders,10800.0,1998,Arrivals,8
+August,Foreigners,49547.0,1998,Arrivals,8
+August,Total,105215.0,1998,Overnight stays,8
+August,Icelanders,15138.0,1998,Overnight stays,8
+August,Foreigners,90077.0,1998,Overnight stays,8
+September,Total,28905.0,1998,Arrivals,9
+September,Icelanders,7909.0,1998,Arrivals,9
+September,Foreigners,20996.0,1998,Arrivals,9
+September,Total,64436.0,1998,Overnight stays,9
+September,Icelanders,13320.0,1998,Overnight stays,9
+September,Foreigners,51116.0,1998,Overnight stays,9
+October,Total,22650.0,1998,Arrivals,10
+October,Icelanders,11492.0,1998,Arrivals,10
+October,Foreigners,11158.0,1998,Arrivals,10
+October,Total,49714.0,1998,Overnight stays,10
+October,Icelanders,19071.0,1998,Overnight stays,10
+October,Foreigners,30643.0,1998,Overnight stays,10
+November,Total,20484.0,1998,Arrivals,11
+November,Icelanders,11027.0,1998,Arrivals,11
+November,Foreigners,9457.0,1998,Arrivals,11
+November,Total,42686.0,1998,Overnight stays,11
+November,Icelanders,16952.0,1998,Overnight stays,11
+November,Foreigners,25734.0,1998,Overnight stays,11
+December,Total,11604.0,1998,Arrivals,12
+December,Icelanders,5513.0,1998,Arrivals,12
+December,Foreigners,6091.0,1998,Arrivals,12
+December,Total,25568.0,1998,Overnight stays,12
+December,Icelanders,8480.0,1998,Overnight stays,12
+December,Foreigners,17088.0,1998,Overnight stays,12
+January,Total,12157.0,1999,Arrivals,1
+January,Icelanders,6488.0,1999,Arrivals,1
+January,Foreigners,5669.0,1999,Arrivals,1
+January,Total,25955.0,1999,Overnight stays,1
+January,Icelanders,10027.0,1999,Overnight stays,1
+January,Foreigners,15928.0,1999,Overnight stays,1
+February,Total,18150.0,1999,Arrivals,2
+February,Icelanders,9127.0,1999,Arrivals,2
+February,Foreigners,9023.0,1999,Arrivals,2
+February,Total,38801.0,1999,Overnight stays,2
+February,Icelanders,14646.0,1999,Overnight stays,2
+February,Foreigners,24155.0,1999,Overnight stays,2
+March,Total,23154.0,1999,Arrivals,3
+March,Icelanders,12689.0,1999,Arrivals,3
+March,Foreigners,10465.0,1999,Arrivals,3
+March,Total,51084.0,1999,Overnight stays,3
+March,Icelanders,21611.0,1999,Overnight stays,3
+March,Foreigners,29473.0,1999,Overnight stays,3
+April,Total,23448.0,1999,Arrivals,4
+April,Icelanders,11153.0,1999,Arrivals,4
+April,Foreigners,12295.0,1999,Arrivals,4
+April,Total,54101.0,1999,Overnight stays,4
+April,Icelanders,18548.0,1999,Overnight stays,4
+April,Foreigners,35553.0,1999,Overnight stays,4
+May,Total,25939.0,1999,Arrivals,5
+May,Icelanders,9266.0,1999,Arrivals,5
+May,Foreigners,16673.0,1999,Arrivals,5
+May,Total,62691.0,1999,Overnight stays,5
+May,Icelanders,15367.0,1999,Overnight stays,5
+May,Foreigners,47324.0,1999,Overnight stays,5
+June,Total,42489.0,1999,Arrivals,6
+June,Icelanders,8960.0,1999,Arrivals,6
+June,Foreigners,33529.0,1999,Arrivals,6
+June,Total,83896.0,1999,Overnight stays,6
+June,Icelanders,13172.0,1999,Overnight stays,6
+June,Foreigners,70724.0,1999,Overnight stays,6
+July,Total,65628.0,1999,Arrivals,7
+July,Icelanders,10185.0,1999,Arrivals,7
+July,Foreigners,55443.0,1999,Arrivals,7
+July,Total,113592.0,1999,Overnight stays,7
+July,Icelanders,13676.0,1999,Overnight stays,7
+July,Foreigners,99916.0,1999,Overnight stays,7
+August,Total,60370.0,1999,Arrivals,8
+August,Icelanders,9535.0,1999,Arrivals,8
+August,Foreigners,50835.0,1999,Arrivals,8
+August,Total,106444.0,1999,Overnight stays,8
+August,Icelanders,13554.0,1999,Overnight stays,8
+August,Foreigners,92890.0,1999,Overnight stays,8
+September,Total,30615.0,1999,Arrivals,9
+September,Icelanders,8049.0,1999,Arrivals,9
+September,Foreigners,22566.0,1999,Arrivals,9
+September,Total,65788.0,1999,Overnight stays,9
+September,Icelanders,12711.0,1999,Overnight stays,9
+September,Foreigners,53077.0,1999,Overnight stays,9
+October,Total,25012.0,1999,Arrivals,10
+October,Icelanders,11682.0,1999,Arrivals,10
+October,Foreigners,13330.0,1999,Arrivals,10
+October,Total,54277.0,1999,Overnight stays,10
+October,Icelanders,17619.0,1999,Overnight stays,10
+October,Foreigners,36658.0,1999,Overnight stays,10
+November,Total,20433.0,1999,Arrivals,11
+November,Icelanders,10383.0,1999,Arrivals,11
+November,Foreigners,10050.0,1999,Arrivals,11
+November,Total,43453.0,1999,Overnight stays,11
+November,Icelanders,16005.0,1999,Overnight stays,11
+November,Foreigners,27448.0,1999,Overnight stays,11
+December,Total,12730.0,1999,Arrivals,12
+December,Icelanders,5259.0,1999,Arrivals,12
+December,Foreigners,7471.0,1999,Arrivals,12
+December,Total,28910.0,1999,Overnight stays,12
+December,Icelanders,8813.0,1999,Overnight stays,12
+December,Foreigners,20097.0,1999,Overnight stays,12
+January,Total,12676.0,2000,Arrivals,1
+January,Icelanders,6234.0,2000,Arrivals,1
+January,Foreigners,6442.0,2000,Arrivals,1
+January,Total,28336.0,2000,Overnight stays,1
+January,Icelanders,10568.0,2000,Overnight stays,1
+January,Foreigners,17768.0,2000,Overnight stays,1
+February,Total,19066.0,2000,Arrivals,2
+February,Icelanders,9124.0,2000,Arrivals,2
+February,Foreigners,9942.0,2000,Arrivals,2
+February,Total,40034.0,2000,Overnight stays,2
+February,Icelanders,13872.0,2000,Overnight stays,2
+February,Foreigners,26162.0,2000,Overnight stays,2
+March,Total,26019.0,2000,Arrivals,3
+March,Icelanders,11747.0,2000,Arrivals,3
+March,Foreigners,14272.0,2000,Arrivals,3
+March,Total,59092.0,2000,Overnight stays,3
+March,Icelanders,20881.0,2000,Overnight stays,3
+March,Foreigners,38211.0,2000,Overnight stays,3
+April,Total,23547.0,2000,Arrivals,4
+April,Icelanders,10275.0,2000,Arrivals,4
+April,Foreigners,13272.0,2000,Arrivals,4
+April,Total,60670.0,2000,Overnight stays,4
+April,Icelanders,19666.0,2000,Overnight stays,4
+April,Foreigners,41004.0,2000,Overnight stays,4
+May,Total,27114.0,2000,Arrivals,5
+May,Icelanders,9527.0,2000,Arrivals,5
+May,Foreigners,17587.0,2000,Arrivals,5
+May,Total,62439.0,2000,Overnight stays,5
+May,Icelanders,14918.0,2000,Overnight stays,5
+May,Foreigners,47521.0,2000,Overnight stays,5
+June,Total,44283.0,2000,Arrivals,6
+June,Icelanders,8531.0,2000,Arrivals,6
+June,Foreigners,35752.0,2000,Arrivals,6
+June,Total,88540.0,2000,Overnight stays,6
+June,Icelanders,13064.0,2000,Overnight stays,6
+June,Foreigners,75476.0,2000,Overnight stays,6
+July,Total,65802.0,2000,Arrivals,7
+July,Icelanders,9591.0,2000,Arrivals,7
+July,Foreigners,56211.0,2000,Arrivals,7
+July,Total,115894.0,2000,Overnight stays,7
+July,Icelanders,13652.0,2000,Overnight stays,7
+July,Foreigners,102242.0,2000,Overnight stays,7
+August,Total,60869.0,2000,Arrivals,8
+August,Icelanders,9259.0,2000,Arrivals,8
+August,Foreigners,51610.0,2000,Arrivals,8
+August,Total,106380.0,2000,Overnight stays,8
+August,Icelanders,13255.0,2000,Overnight stays,8
+August,Foreigners,93125.0,2000,Overnight stays,8
+September,Total,29412.0,2000,Arrivals,9
+September,Icelanders,8339.0,2000,Arrivals,9
+September,Foreigners,21073.0,2000,Arrivals,9
+September,Total,63683.0,2000,Overnight stays,9
+September,Icelanders,12726.0,2000,Overnight stays,9
+September,Foreigners,50957.0,2000,Overnight stays,9
+October,Total,23798.0,2000,Arrivals,10
+October,Icelanders,10156.0,2000,Arrivals,10
+October,Foreigners,13642.0,2000,Arrivals,10
+October,Total,54673.0,2000,Overnight stays,10
+October,Icelanders,15792.0,2000,Overnight stays,10
+October,Foreigners,38881.0,2000,Overnight stays,10
+November,Total,22204.0,2000,Arrivals,11
+November,Icelanders,10266.0,2000,Arrivals,11
+November,Foreigners,11938.0,2000,Arrivals,11
+November,Total,48799.0,2000,Overnight stays,11
+November,Icelanders,15845.0,2000,Overnight stays,11
+November,Foreigners,32954.0,2000,Overnight stays,11
+December,Total,12871.0,2000,Arrivals,12
+December,Icelanders,5333.0,2000,Arrivals,12
+December,Foreigners,7538.0,2000,Arrivals,12
+December,Total,29354.0,2000,Overnight stays,12
+December,Icelanders,7883.0,2000,Overnight stays,12
+December,Foreigners,21471.0,2000,Overnight stays,12
+January,Total,13312.0,2001,Arrivals,1
+January,Icelanders,6090.0,2001,Arrivals,1
+January,Foreigners,7222.0,2001,Arrivals,1
+January,Total,29685.0,2001,Overnight stays,1
+January,Icelanders,9405.0,2001,Overnight stays,1
+January,Foreigners,20280.0,2001,Overnight stays,1
+February,Total,18709.0,2001,Arrivals,2
+February,Icelanders,7129.0,2001,Arrivals,2
+February,Foreigners,11580.0,2001,Arrivals,2
+February,Total,42705.0,2001,Overnight stays,2
+February,Icelanders,11334.0,2001,Overnight stays,2
+February,Foreigners,31371.0,2001,Overnight stays,2
+March,Total,27379.0,2001,Arrivals,3
+March,Icelanders,10041.0,2001,Arrivals,3
+March,Foreigners,17338.0,2001,Arrivals,3
+March,Total,63152.0,2001,Overnight stays,3
+March,Icelanders,17627.0,2001,Overnight stays,3
+March,Foreigners,45525.0,2001,Overnight stays,3
+April,Total,26243.0,2001,Arrivals,4
+April,Icelanders,8624.0,2001,Arrivals,4
+April,Foreigners,17619.0,2001,Arrivals,4
+April,Total,61988.0,2001,Overnight stays,4
+April,Icelanders,15129.0,2001,Overnight stays,4
+April,Foreigners,46859.0,2001,Overnight stays,4
+May,Total,30002.0,2001,Arrivals,5
+May,Icelanders,9740.0,2001,Arrivals,5
+May,Foreigners,20262.0,2001,Arrivals,5
+May,Total,64335.0,2001,Overnight stays,5
+May,Icelanders,14677.0,2001,Overnight stays,5
+May,Foreigners,49658.0,2001,Overnight stays,5
+June,Total,44647.0,2001,Arrivals,6
+June,Icelanders,8044.0,2001,Arrivals,6
+June,Foreigners,36603.0,2001,Arrivals,6
+June,Total,88301.0,2001,Overnight stays,6
+June,Icelanders,11708.0,2001,Overnight stays,6
+June,Foreigners,76593.0,2001,Overnight stays,6
+July,Total,65691.0,2001,Arrivals,7
+July,Icelanders,8579.0,2001,Arrivals,7
+July,Foreigners,57112.0,2001,Arrivals,7
+July,Total,109330.0,2001,Overnight stays,7
+July,Icelanders,11768.0,2001,Overnight stays,7
+July,Foreigners,97562.0,2001,Overnight stays,7
+August,Total,61342.0,2001,Arrivals,8
+August,Icelanders,7256.0,2001,Arrivals,8
+August,Foreigners,54086.0,2001,Arrivals,8
+August,Total,108903.0,2001,Overnight stays,8
+August,Icelanders,10118.0,2001,Overnight stays,8
+August,Foreigners,98785.0,2001,Overnight stays,8
+September,Total,29755.0,2001,Arrivals,9
+September,Icelanders,7378.0,2001,Arrivals,9
+September,Foreigners,22377.0,2001,Arrivals,9
+September,Total,65667.0,2001,Overnight stays,9
+September,Icelanders,11185.0,2001,Overnight stays,9
+September,Foreigners,54482.0,2001,Overnight stays,9
+October,Total,24351.0,2001,Arrivals,10
+October,Icelanders,8903.0,2001,Arrivals,10
+October,Foreigners,15448.0,2001,Arrivals,10
+October,Total,59247.0,2001,Overnight stays,10
+October,Icelanders,14106.0,2001,Overnight stays,10
+October,Foreigners,45141.0,2001,Overnight stays,10
+November,Total,20924.0,2001,Arrivals,11
+November,Icelanders,8862.0,2001,Arrivals,11
+November,Foreigners,12062.0,2001,Arrivals,11
+November,Total,45668.0,2001,Overnight stays,11
+November,Icelanders,13394.0,2001,Overnight stays,11
+November,Foreigners,32274.0,2001,Overnight stays,11
+December,Total,13829.0,2001,Arrivals,12
+December,Icelanders,5225.0,2001,Arrivals,12
+December,Foreigners,8604.0,2001,Arrivals,12
+December,Total,32541.0,2001,Overnight stays,12
+December,Icelanders,7263.0,2001,Overnight stays,12
+December,Foreigners,25278.0,2001,Overnight stays,12
+January,Total,13777.0,2002,Arrivals,1
+January,Icelanders,5744.0,2002,Arrivals,1
+January,Foreigners,8033.0,2002,Arrivals,1
+January,Total,31401.0,2002,Overnight stays,1
+January,Icelanders,8912.0,2002,Overnight stays,1
+January,Foreigners,22489.0,2002,Overnight stays,1
+February,Total,20413.0,2002,Arrivals,2
+February,Icelanders,8741.0,2002,Arrivals,2
+February,Foreigners,11672.0,2002,Arrivals,2
+February,Total,47077.0,2002,Overnight stays,2
+February,Icelanders,14096.0,2002,Overnight stays,2
+February,Foreigners,32981.0,2002,Overnight stays,2
+March,Total,25480.0,2002,Arrivals,3
+March,Icelanders,10134.0,2002,Arrivals,3
+March,Foreigners,15346.0,2002,Arrivals,3
+March,Total,62922.0,2002,Overnight stays,3
+March,Icelanders,19293.0,2002,Overnight stays,3
+March,Foreigners,43629.0,2002,Overnight stays,3
+April,Total,26334.0,2002,Arrivals,4
+April,Icelanders,10713.0,2002,Arrivals,4
+April,Foreigners,15621.0,2002,Arrivals,4
+April,Total,58361.0,2002,Overnight stays,4
+April,Icelanders,17752.0,2002,Overnight stays,4
+April,Foreigners,40609.0,2002,Overnight stays,4
+May,Total,31728.0,2002,Arrivals,5
+May,Icelanders,9146.0,2002,Arrivals,5
+May,Foreigners,22582.0,2002,Arrivals,5
+May,Total,69581.0,2002,Overnight stays,5
+May,Icelanders,14019.0,2002,Overnight stays,5
+May,Foreigners,55562.0,2002,Overnight stays,5
+June,Total,48555.0,2002,Arrivals,6
+June,Icelanders,7764.0,2002,Arrivals,6
+June,Foreigners,40791.0,2002,Arrivals,6
+June,Total,97869.0,2002,Overnight stays,6
+June,Icelanders,12662.0,2002,Overnight stays,6
+June,Foreigners,85207.0,2002,Overnight stays,6
+July,Total,69747.0,2002,Arrivals,7
+July,Icelanders,7753.0,2002,Arrivals,7
+July,Foreigners,61994.0,2002,Arrivals,7
+July,Total,118995.0,2002,Overnight stays,7
+July,Icelanders,11194.0,2002,Overnight stays,7
+July,Foreigners,107801.0,2002,Overnight stays,7
+August,Total,63461.0,2002,Arrivals,8
+August,Icelanders,7912.0,2002,Arrivals,8
+August,Foreigners,55549.0,2002,Arrivals,8
+August,Total,112953.0,2002,Overnight stays,8
+August,Icelanders,11325.0,2002,Overnight stays,8
+August,Foreigners,101628.0,2002,Overnight stays,8
+September,Total,34173.0,2002,Arrivals,9
+September,Icelanders,7908.0,2002,Arrivals,9
+September,Foreigners,26265.0,2002,Arrivals,9
+September,Total,70701.0,2002,Overnight stays,9
+September,Icelanders,12234.0,2002,Overnight stays,9
+September,Foreigners,58467.0,2002,Overnight stays,9
+October,Total,25991.0,2002,Arrivals,10
+October,Icelanders,10152.0,2002,Arrivals,10
+October,Foreigners,15839.0,2002,Arrivals,10
+October,Total,58208.0,2002,Overnight stays,10
+October,Icelanders,15339.0,2002,Overnight stays,10
+October,Foreigners,42869.0,2002,Overnight stays,10
+November,Total,22050.0,2002,Arrivals,11
+November,Icelanders,10934.0,2002,Arrivals,11
+November,Foreigners,11116.0,2002,Arrivals,11
+November,Total,45737.0,2002,Overnight stays,11
+November,Icelanders,15110.0,2002,Overnight stays,11
+November,Foreigners,30627.0,2002,Overnight stays,11
+December,Total,12312.0,2002,Arrivals,12
+December,Icelanders,4858.0,2002,Arrivals,12
+December,Foreigners,7454.0,2002,Arrivals,12
+December,Total,28303.0,2002,Overnight stays,12
+December,Icelanders,7175.0,2002,Overnight stays,12
+December,Foreigners,21128.0,2002,Overnight stays,12
+January,Total,14477.0,2003,Arrivals,1
+January,Icelanders,5585.0,2003,Arrivals,1
+January,Foreigners,8892.0,2003,Arrivals,1
+January,Total,30643.0,2003,Overnight stays,1
+January,Icelanders,8275.0,2003,Overnight stays,1
+January,Foreigners,22368.0,2003,Overnight stays,1
+February,Total,19647.0,2003,Arrivals,2
+February,Icelanders,8157.0,2003,Arrivals,2
+February,Foreigners,11490.0,2003,Arrivals,2
+February,Total,45925.0,2003,Overnight stays,2
+February,Icelanders,12436.0,2003,Overnight stays,2
+February,Foreigners,33489.0,2003,Overnight stays,2
+March,Total,26737.0,2003,Arrivals,3
+March,Icelanders,12063.0,2003,Arrivals,3
+March,Foreigners,14674.0,2003,Arrivals,3
+March,Total,63794.0,2003,Overnight stays,3
+March,Icelanders,20416.0,2003,Overnight stays,3
+March,Foreigners,43378.0,2003,Overnight stays,3
+April,Total,27032.0,2003,Arrivals,4
+April,Icelanders,10192.0,2003,Arrivals,4
+April,Foreigners,16840.0,2003,Arrivals,4
+April,Total,65702.0,2003,Overnight stays,4
+April,Icelanders,15523.0,2003,Overnight stays,4
+April,Foreigners,50179.0,2003,Overnight stays,4
+May,Total,37492.0,2003,Arrivals,5
+May,Icelanders,11323.0,2003,Arrivals,5
+May,Foreigners,26169.0,2003,Arrivals,5
+May,Total,79722.0,2003,Overnight stays,5
+May,Icelanders,17246.0,2003,Overnight stays,5
+May,Foreigners,62476.0,2003,Overnight stays,5
+June,Total,51666.0,2003,Arrivals,6
+June,Icelanders,7721.0,2003,Arrivals,6
+June,Foreigners,43945.0,2003,Arrivals,6
+June,Total,100540.0,2003,Overnight stays,6
+June,Icelanders,12329.0,2003,Overnight stays,6
+June,Foreigners,88211.0,2003,Overnight stays,6
+July,Total,75183.0,2003,Arrivals,7
+July,Icelanders,8097.0,2003,Arrivals,7
+July,Foreigners,67086.0,2003,Arrivals,7
+July,Total,127869.0,2003,Overnight stays,7
+July,Icelanders,10961.0,2003,Overnight stays,7
+July,Foreigners,116908.0,2003,Overnight stays,7
+August,Total,74332.0,2003,Arrivals,8
+August,Icelanders,9506.0,2003,Arrivals,8
+August,Foreigners,64826.0,2003,Arrivals,8
+August,Total,133154.0,2003,Overnight stays,8
+August,Icelanders,14387.0,2003,Overnight stays,8
+August,Foreigners,118767.0,2003,Overnight stays,8
+September,Total,38488.0,2003,Arrivals,9
+September,Icelanders,9157.0,2003,Arrivals,9
+September,Foreigners,29331.0,2003,Arrivals,9
+September,Total,77924.0,2003,Overnight stays,9
+September,Icelanders,14137.0,2003,Overnight stays,9
+September,Foreigners,63787.0,2003,Overnight stays,9
+October,Total,35070.0,2003,Arrivals,10
+October,Icelanders,13442.0,2003,Arrivals,10
+October,Foreigners,21628.0,2003,Arrivals,10
+October,Total,78452.0,2003,Overnight stays,10
+October,Icelanders,21581.0,2003,Overnight stays,10
+October,Foreigners,56871.0,2003,Overnight stays,10
+November,Total,23382.0,2003,Arrivals,11
+November,Icelanders,11138.0,2003,Arrivals,11
+November,Foreigners,12244.0,2003,Arrivals,11
+November,Total,50733.0,2003,Overnight stays,11
+November,Icelanders,16807.0,2003,Overnight stays,11
+November,Foreigners,33926.0,2003,Overnight stays,11
+December,Total,15419.0,2003,Arrivals,12
+December,Icelanders,5860.0,2003,Arrivals,12
+December,Foreigners,9559.0,2003,Arrivals,12
+December,Total,34704.0,2003,Overnight stays,12
+December,Icelanders,8872.0,2003,Overnight stays,12
+December,Foreigners,25832.0,2003,Overnight stays,12
+January,Total,14580.0,2004,Arrivals,1
+January,Icelanders,5877.0,2004,Arrivals,1
+January,Foreigners,8703.0,2004,Arrivals,1
+January,Total,32053.0,2004,Overnight stays,1
+January,Icelanders,9680.0,2004,Overnight stays,1
+January,Foreigners,22373.0,2004,Overnight stays,1
+February,Total,22626.0,2004,Arrivals,2
+February,Icelanders,8465.0,2004,Arrivals,2
+February,Foreigners,14161.0,2004,Arrivals,2
+February,Total,53638.0,2004,Overnight stays,2
+February,Icelanders,14832.0,2004,Overnight stays,2
+February,Foreigners,38806.0,2004,Overnight stays,2
+March,Total,27604.0,2004,Arrivals,3
+March,Icelanders,10945.0,2004,Arrivals,3
+March,Foreigners,16659.0,2004,Arrivals,3
+March,Total,68062.0,2004,Overnight stays,3
+March,Icelanders,19768.0,2004,Overnight stays,3
+March,Foreigners,48294.0,2004,Overnight stays,3
+April,Total,30005.0,2004,Arrivals,4
+April,Icelanders,10526.0,2004,Arrivals,4
+April,Foreigners,19479.0,2004,Arrivals,4
+April,Total,71399.0,2004,Overnight stays,4
+April,Icelanders,18840.0,2004,Overnight stays,4
+April,Foreigners,52559.0,2004,Overnight stays,4
+May,Total,36715.0,2004,Arrivals,5
+May,Icelanders,10699.0,2004,Arrivals,5
+May,Foreigners,26016.0,2004,Arrivals,5
+May,Total,82528.0,2004,Overnight stays,5
+May,Icelanders,18225.0,2004,Overnight stays,5
+May,Foreigners,64303.0,2004,Overnight stays,5
+June,Total,57060.0,2004,Arrivals,6
+June,Icelanders,8733.0,2004,Arrivals,6
+June,Foreigners,48327.0,2004,Arrivals,6
+June,Total,113250.0,2004,Overnight stays,6
+June,Icelanders,14676.0,2004,Overnight stays,6
+June,Foreigners,98574.0,2004,Overnight stays,6
+July,Total,87639.0,2004,Arrivals,7
+July,Icelanders,9676.0,2004,Arrivals,7
+July,Foreigners,77963.0,2004,Arrivals,7
+July,Total,153187.0,2004,Overnight stays,7
+July,Icelanders,14213.0,2004,Overnight stays,7
+July,Foreigners,138974.0,2004,Overnight stays,7
+August,Total,77342.0,2004,Arrivals,8
+August,Icelanders,9413.0,2004,Arrivals,8
+August,Foreigners,67929.0,2004,Arrivals,8
+August,Total,138225.0,2004,Overnight stays,8
+August,Icelanders,14374.0,2004,Overnight stays,8
+August,Foreigners,123851.0,2004,Overnight stays,8
+September,Total,40554.0,2004,Arrivals,9
+September,Icelanders,10727.0,2004,Arrivals,9
+September,Foreigners,29827.0,2004,Arrivals,9
+September,Total,81892.0,2004,Overnight stays,9
+September,Icelanders,17290.0,2004,Overnight stays,9
+September,Foreigners,64602.0,2004,Overnight stays,9
+October,Total,40459.0,2004,Arrivals,10
+October,Icelanders,12426.0,2004,Arrivals,10
+October,Foreigners,28033.0,2004,Arrivals,10
+October,Total,84025.0,2004,Overnight stays,10
+October,Icelanders,20827.0,2004,Overnight stays,10
+October,Foreigners,63198.0,2004,Overnight stays,10
+November,Total,25343.0,2004,Arrivals,11
+November,Icelanders,12272.0,2004,Arrivals,11
+November,Foreigners,13071.0,2004,Arrivals,11
+November,Total,53042.0,2004,Overnight stays,11
+November,Icelanders,18180.0,2004,Overnight stays,11
+November,Foreigners,34862.0,2004,Overnight stays,11
+December,Total,18839.0,2004,Arrivals,12
+December,Icelanders,9033.0,2004,Arrivals,12
+December,Foreigners,9806.0,2004,Arrivals,12
+December,Total,37339.0,2004,Overnight stays,12
+December,Icelanders,12337.0,2004,Overnight stays,12
+December,Foreigners,25002.0,2004,Overnight stays,12
+January,Total,15922.0,2005,Arrivals,1
+January,Icelanders,7107.0,2005,Arrivals,1
+January,Foreigners,8815.0,2005,Arrivals,1
+January,Total,35953.0,2005,Overnight stays,1
+January,Icelanders,11020.0,2005,Overnight stays,1
+January,Foreigners,24933.0,2005,Overnight stays,1
+February,Total,23697.0,2005,Arrivals,2
+February,Icelanders,10184.0,2005,Arrivals,2
+February,Foreigners,13513.0,2005,Arrivals,2
+February,Total,53005.0,2005,Overnight stays,2
+February,Icelanders,15907.0,2005,Overnight stays,2
+February,Foreigners,37098.0,2005,Overnight stays,2
+March,Total,28573.0,2005,Arrivals,3
+March,Icelanders,11374.0,2005,Arrivals,3
+March,Foreigners,17199.0,2005,Arrivals,3
+March,Total,65181.0,2005,Overnight stays,3
+March,Icelanders,20024.0,2005,Overnight stays,3
+March,Foreigners,45157.0,2005,Overnight stays,3
+April,Total,34829.0,2005,Arrivals,4
+April,Icelanders,14811.0,2005,Arrivals,4
+April,Foreigners,20018.0,2005,Arrivals,4
+April,Total,77265.0,2005,Overnight stays,4
+April,Icelanders,24841.0,2005,Overnight stays,4
+April,Foreigners,52424.0,2005,Overnight stays,4
+May,Total,42234.0,2005,Arrivals,5
+May,Icelanders,12503.0,2005,Arrivals,5
+May,Foreigners,29731.0,2005,Arrivals,5
+May,Total,87202.0,2005,Overnight stays,5
+May,Icelanders,20490.0,2005,Overnight stays,5
+May,Foreigners,66712.0,2005,Overnight stays,5
+June,Total,64629.0,2005,Arrivals,6
+June,Icelanders,11168.0,2005,Arrivals,6
+June,Foreigners,53461.0,2005,Arrivals,6
+June,Total,123898.0,2005,Overnight stays,6
+June,Icelanders,18506.0,2005,Overnight stays,6
+June,Foreigners,105392.0,2005,Overnight stays,6
+July,Total,91914.0,2005,Arrivals,7
+July,Icelanders,11972.0,2005,Arrivals,7
+July,Foreigners,79942.0,2005,Arrivals,7
+July,Total,157970.0,2005,Overnight stays,7
+July,Icelanders,18101.0,2005,Overnight stays,7
+July,Foreigners,139869.0,2005,Overnight stays,7
+August,Total,82830.0,2005,Arrivals,8
+August,Icelanders,10791.0,2005,Arrivals,8
+August,Foreigners,72039.0,2005,Arrivals,8
+August,Total,154108.0,2005,Overnight stays,8
+August,Icelanders,16470.0,2005,Overnight stays,8
+August,Foreigners,137638.0,2005,Overnight stays,8
+September,Total,46608.0,2005,Arrivals,9
+September,Icelanders,11243.0,2005,Arrivals,9
+September,Foreigners,35365.0,2005,Arrivals,9
+September,Total,93913.0,2005,Overnight stays,9
+September,Icelanders,17948.0,2005,Overnight stays,9
+September,Foreigners,75965.0,2005,Overnight stays,9
+October,Total,38548.0,2005,Arrivals,10
+October,Icelanders,12972.0,2005,Arrivals,10
+October,Foreigners,25576.0,2005,Arrivals,10
+October,Total,86625.0,2005,Overnight stays,10
+October,Icelanders,20392.0,2005,Overnight stays,10
+October,Foreigners,66233.0,2005,Overnight stays,10
+November,Total,28034.0,2005,Arrivals,11
+November,Icelanders,13935.0,2005,Arrivals,11
+November,Foreigners,14099.0,2005,Arrivals,11
+November,Total,57429.0,2005,Overnight stays,11
+November,Icelanders,20078.0,2005,Overnight stays,11
+November,Foreigners,37351.0,2005,Overnight stays,11
+December,Total,20759.0,2005,Arrivals,12
+December,Icelanders,9575.0,2005,Arrivals,12
+December,Foreigners,11184.0,2005,Arrivals,12
+December,Total,42296.0,2005,Overnight stays,12
+December,Icelanders,13808.0,2005,Overnight stays,12
+December,Foreigners,28488.0,2005,Overnight stays,12
+January,Total,18247.0,2006,Arrivals,1
+January,Icelanders,8372.0,2006,Arrivals,1
+January,Foreigners,9875.0,2006,Arrivals,1
+January,Total,40367.0,2006,Overnight stays,1
+January,Icelanders,13247.0,2006,Overnight stays,1
+January,Foreigners,27120.0,2006,Overnight stays,1
+February,Total,25432.0,2006,Arrivals,2
+February,Icelanders,10547.0,2006,Arrivals,2
+February,Foreigners,14885.0,2006,Arrivals,2
+February,Total,55881.0,2006,Overnight stays,2
+February,Icelanders,17855.0,2006,Overnight stays,2
+February,Foreigners,38026.0,2006,Overnight stays,2
+March,Total,35213.0,2006,Arrivals,3
+March,Icelanders,16281.0,2006,Arrivals,3
+March,Foreigners,18932.0,2006,Arrivals,3
+March,Total,73655.0,2006,Overnight stays,3
+March,Icelanders,25860.0,2006,Overnight stays,3
+March,Foreigners,47795.0,2006,Overnight stays,3
+April,Total,35897.0,2006,Arrivals,4
+April,Icelanders,13548.0,2006,Arrivals,4
+April,Foreigners,22349.0,2006,Arrivals,4
+April,Total,80055.0,2006,Overnight stays,4
+April,Icelanders,23486.0,2006,Overnight stays,4
+April,Foreigners,56569.0,2006,Overnight stays,4
+May,Total,47357.0,2006,Arrivals,5
+May,Icelanders,12432.0,2006,Arrivals,5
+May,Foreigners,34925.0,2006,Arrivals,5
+May,Total,101429.0,2006,Overnight stays,5
+May,Icelanders,19551.0,2006,Overnight stays,5
+May,Foreigners,81878.0,2006,Overnight stays,5
+June,Total,71896.0,2006,Arrivals,6
+June,Icelanders,13341.0,2006,Arrivals,6
+June,Foreigners,58555.0,2006,Arrivals,6
+June,Total,132779.0,2006,Overnight stays,6
+June,Icelanders,21344.0,2006,Overnight stays,6
+June,Foreigners,111435.0,2006,Overnight stays,6
+July,Total,102353.0,2006,Arrivals,7
+July,Icelanders,12371.0,2006,Arrivals,7
+July,Foreigners,89982.0,2006,Arrivals,7
+July,Total,177799.0,2006,Overnight stays,7
+July,Icelanders,19237.0,2006,Overnight stays,7
+July,Foreigners,158562.0,2006,Overnight stays,7
+August,Total,94719.0,2006,Arrivals,8
+August,Icelanders,12689.0,2006,Arrivals,8
+August,Foreigners,82030.0,2006,Arrivals,8
+August,Total,163758.0,2006,Overnight stays,8
+August,Icelanders,20199.0,2006,Overnight stays,8
+August,Foreigners,143559.0,2006,Overnight stays,8
+September,Total,58253.0,2006,Arrivals,9
+September,Icelanders,14266.0,2006,Arrivals,9
+September,Foreigners,43987.0,2006,Arrivals,9
+September,Total,116106.0,2006,Overnight stays,9
+September,Icelanders,22778.0,2006,Overnight stays,9
+September,Foreigners,93328.0,2006,Overnight stays,9
+October,Total,44553.0,2006,Arrivals,10
+October,Icelanders,15599.0,2006,Arrivals,10
+October,Foreigners,28954.0,2006,Arrivals,10
+October,Total,97875.0,2006,Overnight stays,10
+October,Icelanders,24522.0,2006,Overnight stays,10
+October,Foreigners,73353.0,2006,Overnight stays,10
+November,Total,35588.0,2006,Arrivals,11
+November,Icelanders,16001.0,2006,Arrivals,11
+November,Foreigners,19587.0,2006,Arrivals,11
+November,Total,72418.0,2006,Overnight stays,11
+November,Icelanders,23283.0,2006,Overnight stays,11
+November,Foreigners,49135.0,2006,Overnight stays,11
+December,Total,24604.0,2006,Arrivals,12
+December,Icelanders,11104.0,2006,Arrivals,12
+December,Foreigners,13500.0,2006,Arrivals,12
+December,Total,53605.0,2006,Overnight stays,12
+December,Icelanders,16417.0,2006,Overnight stays,12
+December,Foreigners,37188.0,2006,Overnight stays,12
+January,Total,22386.0,2007,Arrivals,1
+January,Icelanders,9332.0,2007,Arrivals,1
+January,Foreigners,13054.0,2007,Arrivals,1
+January,Total,50976.0,2007,Overnight stays,1
+January,Icelanders,14426.0,2007,Overnight stays,1
+January,Foreigners,36550.0,2007,Overnight stays,1
+February,Total,30603.0,2007,Arrivals,2
+February,Icelanders,12270.0,2007,Arrivals,2
+February,Foreigners,18333.0,2007,Arrivals,2
+February,Total,65636.0,2007,Overnight stays,2
+February,Icelanders,19407.0,2007,Overnight stays,2
+February,Foreigners,46229.0,2007,Overnight stays,2
+March,Total,43322.0,2007,Arrivals,3
+March,Icelanders,17379.0,2007,Arrivals,3
+March,Foreigners,25943.0,2007,Arrivals,3
+March,Total,88111.0,2007,Overnight stays,3
+March,Icelanders,26951.0,2007,Overnight stays,3
+March,Foreigners,61160.0,2007,Overnight stays,3
+April,Total,42835.0,2007,Arrivals,4
+April,Icelanders,14446.0,2007,Arrivals,4
+April,Foreigners,28389.0,2007,Arrivals,4
+April,Total,90214.0,2007,Overnight stays,4
+April,Icelanders,24343.0,2007,Overnight stays,4
+April,Foreigners,65871.0,2007,Overnight stays,4
+May,Total,57570.0,2007,Arrivals,5
+May,Icelanders,15662.0,2007,Arrivals,5
+May,Foreigners,41908.0,2007,Arrivals,5
+May,Total,117439.0,2007,Overnight stays,5
+May,Icelanders,26072.0,2007,Overnight stays,5
+May,Foreigners,91367.0,2007,Overnight stays,5
+June,Total,79819.0,2007,Arrivals,6
+June,Icelanders,15762.0,2007,Arrivals,6
+June,Foreigners,64057.0,2007,Arrivals,6
+June,Total,156141.0,2007,Overnight stays,6
+June,Icelanders,25906.0,2007,Overnight stays,6
+June,Foreigners,130235.0,2007,Overnight stays,6
+July,Total,112291.0,2007,Arrivals,7
+July,Icelanders,15377.0,2007,Arrivals,7
+July,Foreigners,96914.0,2007,Arrivals,7
+July,Total,196595.0,2007,Overnight stays,7
+July,Icelanders,23781.0,2007,Overnight stays,7
+July,Foreigners,172814.0,2007,Overnight stays,7
+August,Total,107254.0,2007,Arrivals,8
+August,Icelanders,17769.0,2007,Arrivals,8
+August,Foreigners,89485.0,2007,Arrivals,8
+August,Total,185943.0,2007,Overnight stays,8
+August,Icelanders,27924.0,2007,Overnight stays,8
+August,Foreigners,158019.0,2007,Overnight stays,8
+September,Total,57796.0,2007,Arrivals,9
+September,Icelanders,16954.0,2007,Arrivals,9
+September,Foreigners,40842.0,2007,Arrivals,9
+September,Total,120636.0,2007,Overnight stays,9
+September,Icelanders,29418.0,2007,Overnight stays,9
+September,Foreigners,91218.0,2007,Overnight stays,9
+October,Total,49530.0,2007,Arrivals,10
+October,Icelanders,18933.0,2007,Arrivals,10
+October,Foreigners,30597.0,2007,Arrivals,10
+October,Total,108774.0,2007,Overnight stays,10
+October,Icelanders,30638.0,2007,Overnight stays,10
+October,Foreigners,78136.0,2007,Overnight stays,10
+November,Total,37588.0,2007,Arrivals,11
+November,Icelanders,17961.0,2007,Arrivals,11
+November,Foreigners,19627.0,2007,Arrivals,11
+November,Total,75906.0,2007,Overnight stays,11
+November,Icelanders,27157.0,2007,Overnight stays,11
+November,Foreigners,48749.0,2007,Overnight stays,11
+December,Total,26154.0,2007,Arrivals,12
+December,Icelanders,12254.0,2007,Arrivals,12
+December,Foreigners,13900.0,2007,Arrivals,12
+December,Total,53619.0,2007,Overnight stays,12
+December,Icelanders,18981.0,2007,Overnight stays,12
+December,Foreigners,34638.0,2007,Overnight stays,12
+January,Total,26164.0,2008,Arrivals,1
+January,Icelanders,11441.0,2008,Arrivals,1
+January,Foreigners,14723.0,2008,Arrivals,1
+January,Total,58441.0,2008,Overnight stays,1
+January,Icelanders,18499.0,2008,Overnight stays,1
+January,Foreigners,39942.0,2008,Overnight stays,1
+February,Total,35276.0,2008,Arrivals,2
+February,Icelanders,15148.0,2008,Arrivals,2
+February,Foreigners,20128.0,2008,Arrivals,2
+February,Total,77588.0,2008,Overnight stays,2
+February,Icelanders,23551.0,2008,Overnight stays,2
+February,Foreigners,54037.0,2008,Overnight stays,2
+March,Total,39307.0,2008,Arrivals,3
+March,Icelanders,15507.0,2008,Arrivals,3
+March,Foreigners,23800.0,2008,Arrivals,3
+March,Total,82929.0,2008,Overnight stays,3
+March,Icelanders,25767.0,2008,Overnight stays,3
+March,Foreigners,57162.0,2008,Overnight stays,3
+April,Total,45577.0,2008,Arrivals,4
+April,Icelanders,18756.0,2008,Arrivals,4
+April,Foreigners,26821.0,2008,Arrivals,4
+April,Total,91791.0,2008,Overnight stays,4
+April,Icelanders,30587.0,2008,Overnight stays,4
+April,Foreigners,61204.0,2008,Overnight stays,4
+May,Total,59171.0,2008,Arrivals,5
+May,Icelanders,17413.0,2008,Arrivals,5
+May,Foreigners,41758.0,2008,Arrivals,5
+May,Total,117899.0,2008,Overnight stays,5
+May,Icelanders,28183.0,2008,Overnight stays,5
+May,Foreigners,89716.0,2008,Overnight stays,5
+June,Total,84838.0,2008,Arrivals,6
+June,Icelanders,16043.0,2008,Arrivals,6
+June,Foreigners,68795.0,2008,Arrivals,6
+June,Total,155776.0,2008,Overnight stays,6
+June,Icelanders,26083.0,2008,Overnight stays,6
+June,Foreigners,129693.0,2008,Overnight stays,6
+July,Total,118563.0,2008,Arrivals,7
+July,Icelanders,16659.0,2008,Arrivals,7
+July,Foreigners,101904.0,2008,Arrivals,7
+July,Total,202130.0,2008,Overnight stays,7
+July,Icelanders,24804.0,2008,Overnight stays,7
+July,Foreigners,177326.0,2008,Overnight stays,7
+August,Total,109149.0,2008,Arrivals,8
+August,Icelanders,16369.0,2008,Arrivals,8
+August,Foreigners,92780.0,2008,Arrivals,8
+August,Total,190460.0,2008,Overnight stays,8
+August,Icelanders,25885.0,2008,Overnight stays,8
+August,Foreigners,164575.0,2008,Overnight stays,8
+September,Total,60345.0,2008,Arrivals,9
+September,Icelanders,14596.0,2008,Arrivals,9
+September,Foreigners,45749.0,2008,Arrivals,9
+September,Total,122427.0,2008,Overnight stays,9
+September,Icelanders,24326.0,2008,Overnight stays,9
+September,Foreigners,98101.0,2008,Overnight stays,9
+October,Total,47962.0,2008,Arrivals,10
+October,Icelanders,14621.0,2008,Arrivals,10
+October,Foreigners,33341.0,2008,Arrivals,10
+October,Total,103888.0,2008,Overnight stays,10
+October,Icelanders,23747.0,2008,Overnight stays,10
+October,Foreigners,80141.0,2008,Overnight stays,10
+November,Total,36233.0,2008,Arrivals,11
+November,Icelanders,15681.0,2008,Arrivals,11
+November,Foreigners,20552.0,2008,Arrivals,11
+November,Total,77460.0,2008,Overnight stays,11
+November,Icelanders,23340.0,2008,Overnight stays,11
+November,Foreigners,54120.0,2008,Overnight stays,11
+December,Total,25712.0,2008,Arrivals,12
+December,Icelanders,9231.0,2008,Arrivals,12
+December,Foreigners,16481.0,2008,Arrivals,12
+December,Total,58820.0,2008,Overnight stays,12
+December,Icelanders,13443.0,2008,Overnight stays,12
+December,Foreigners,45377.0,2008,Overnight stays,12
+January,Total,22816.0,2009,Arrivals,1
+January,Icelanders,7892.0,2009,Arrivals,1
+January,Foreigners,14924.0,2009,Arrivals,1
+January,Total,54713.0,2009,Overnight stays,1
+January,Icelanders,12317.0,2009,Overnight stays,1
+January,Foreigners,42396.0,2009,Overnight stays,1
+February,Total,32276.0,2009,Arrivals,2
+February,Icelanders,11845.0,2009,Arrivals,2
+February,Foreigners,20431.0,2009,Arrivals,2
+February,Total,72819.0,2009,Overnight stays,2
+February,Icelanders,19541.0,2009,Overnight stays,2
+February,Foreigners,53278.0,2009,Overnight stays,2
+March,Total,37204.0,2009,Arrivals,3
+March,Icelanders,15487.0,2009,Arrivals,3
+March,Foreigners,21717.0,2009,Arrivals,3
+March,Total,84480.0,2009,Overnight stays,3
+March,Icelanders,26496.0,2009,Overnight stays,3
+March,Foreigners,57984.0,2009,Overnight stays,3
+April,Total,43603.0,2009,Arrivals,4
+April,Icelanders,13537.0,2009,Arrivals,4
+April,Foreigners,30066.0,2009,Arrivals,4
+April,Total,93026.0,2009,Overnight stays,4
+April,Icelanders,23373.0,2009,Overnight stays,4
+April,Foreigners,69653.0,2009,Overnight stays,4
+May,Total,56459.0,2009,Arrivals,5
+May,Icelanders,16965.0,2009,Arrivals,5
+May,Foreigners,39494.0,2009,Arrivals,5
+May,Total,116500.0,2009,Overnight stays,5
+May,Icelanders,27349.0,2009,Overnight stays,5
+May,Foreigners,89151.0,2009,Overnight stays,5
+June,Total,82924.0,2009,Arrivals,6
+June,Icelanders,14529.0,2009,Arrivals,6
+June,Foreigners,68395.0,2009,Arrivals,6
+June,Total,148778.0,2009,Overnight stays,6
+June,Icelanders,23279.0,2009,Overnight stays,6
+June,Foreigners,125499.0,2009,Overnight stays,6
+July,Total,123504.0,2009,Arrivals,7
+July,Icelanders,14462.0,2009,Arrivals,7
+July,Foreigners,109042.0,2009,Arrivals,7
+July,Total,203150.0,2009,Overnight stays,7
+July,Icelanders,20906.0,2009,Overnight stays,7
+July,Foreigners,182244.0,2009,Overnight stays,7
+August,Total,120534.0,2009,Arrivals,8
+August,Icelanders,15533.0,2009,Arrivals,8
+August,Foreigners,105001.0,2009,Arrivals,8
+August,Total,205178.0,2009,Overnight stays,8
+August,Icelanders,24195.0,2009,Overnight stays,8
+August,Foreigners,180983.0,2009,Overnight stays,8
+September,Total,58554.0,2009,Arrivals,9
+September,Icelanders,12845.0,2009,Arrivals,9
+September,Foreigners,45709.0,2009,Arrivals,9
+September,Total,121130.0,2009,Overnight stays,9
+September,Icelanders,22615.0,2009,Overnight stays,9
+September,Foreigners,98515.0,2009,Overnight stays,9
+October,Total,46034.0,2009,Arrivals,10
+October,Icelanders,15581.0,2009,Arrivals,10
+October,Foreigners,30453.0,2009,Arrivals,10
+October,Total,106339.0,2009,Overnight stays,10
+October,Icelanders,23863.0,2009,Overnight stays,10
+October,Foreigners,82476.0,2009,Overnight stays,10
+November,Total,34590.0,2009,Arrivals,11
+November,Icelanders,14836.0,2009,Arrivals,11
+November,Foreigners,19754.0,2009,Arrivals,11
+November,Total,71443.0,2009,Overnight stays,11
+November,Icelanders,21715.0,2009,Overnight stays,11
+November,Foreigners,49728.0,2009,Overnight stays,11
+December,Total,25573.0,2009,Arrivals,12
+December,Icelanders,10079.0,2009,Arrivals,12
+December,Foreigners,15494.0,2009,Arrivals,12
+December,Total,55900.0,2009,Overnight stays,12
+December,Icelanders,13970.0,2009,Overnight stays,12
+December,Foreigners,41930.0,2009,Overnight stays,12
+January,Total,23135.0,2010,Arrivals,1
+January,Icelanders,7963.0,2010,Arrivals,1
+January,Foreigners,15172.0,2010,Arrivals,1
+January,Total,54862.0,2010,Overnight stays,1
+January,Icelanders,12813.0,2010,Overnight stays,1
+January,Foreigners,42049.0,2010,Overnight stays,1
+February,Total,33435.0,2010,Arrivals,2
+February,Icelanders,11727.0,2010,Arrivals,2
+February,Foreigners,21708.0,2010,Arrivals,2
+February,Total,77832.0,2010,Overnight stays,2
+February,Icelanders,19881.0,2010,Overnight stays,2
+February,Foreigners,57951.0,2010,Overnight stays,2
+March,Total,43229.0,2010,Arrivals,3
+March,Icelanders,15971.0,2010,Arrivals,3
+March,Foreigners,27258.0,2010,Arrivals,3
+March,Total,95392.0,2010,Overnight stays,3
+March,Icelanders,25867.0,2010,Overnight stays,3
+March,Foreigners,69525.0,2010,Overnight stays,3
+April,Total,41427.0,2010,Arrivals,4
+April,Icelanders,15070.0,2010,Arrivals,4
+April,Foreigners,26357.0,2010,Arrivals,4
+April,Total,87809.0,2010,Overnight stays,4
+April,Icelanders,23995.0,2010,Overnight stays,4
+April,Foreigners,63814.0,2010,Overnight stays,4
+May,Total,52398.0,2010,Arrivals,5
+May,Icelanders,14487.0,2010,Arrivals,5
+May,Foreigners,37911.0,2010,Arrivals,5
+May,Total,106345.0,2010,Overnight stays,5
+May,Icelanders,22422.0,2010,Overnight stays,5
+May,Foreigners,83923.0,2010,Overnight stays,5
+June,Total,85878.0,2010,Arrivals,6
+June,Icelanders,11286.0,2010,Arrivals,6
+June,Foreigners,74592.0,2010,Arrivals,6
+June,Total,156478.0,2010,Overnight stays,6
+June,Icelanders,17692.0,2010,Overnight stays,6
+June,Foreigners,138786.0,2010,Overnight stays,6
+July,Total,120163.0,2010,Arrivals,7
+July,Icelanders,12984.0,2010,Arrivals,7
+July,Foreigners,107179.0,2010,Arrivals,7
+July,Total,196672.0,2010,Overnight stays,7
+July,Icelanders,18043.0,2010,Overnight stays,7
+July,Foreigners,178629.0,2010,Overnight stays,7
+August,Total,108061.0,2010,Arrivals,8
+August,Icelanders,14928.0,2010,Arrivals,8
+August,Foreigners,93133.0,2010,Arrivals,8
+August,Total,190432.0,2010,Overnight stays,8
+August,Icelanders,24150.0,2010,Overnight stays,8
+August,Foreigners,166282.0,2010,Overnight stays,8
+September,Total,57819.0,2010,Arrivals,9
+September,Icelanders,15157.0,2010,Arrivals,9
+September,Foreigners,42662.0,2010,Arrivals,9
+September,Total,113884.0,2010,Overnight stays,9
+September,Icelanders,25693.0,2010,Overnight stays,9
+September,Foreigners,88191.0,2010,Overnight stays,9
+October,Total,48693.0,2010,Arrivals,10
+October,Icelanders,18402.0,2010,Arrivals,10
+October,Foreigners,30291.0,2010,Arrivals,10
+October,Total,105101.0,2010,Overnight stays,10
+October,Icelanders,28095.0,2010,Overnight stays,10
+October,Foreigners,77006.0,2010,Overnight stays,10
+November,Total,33145.0,2010,Arrivals,11
+November,Icelanders,14686.0,2010,Arrivals,11
+November,Foreigners,18459.0,2010,Arrivals,11
+November,Total,70422.0,2010,Overnight stays,11
+November,Icelanders,21515.0,2010,Overnight stays,11
+November,Foreigners,48907.0,2010,Overnight stays,11
+December,Total,25908.0,2010,Arrivals,12
+December,Icelanders,10648.0,2010,Arrivals,12
+December,Foreigners,15260.0,2010,Arrivals,12
+December,Total,54284.0,2010,Overnight stays,12
+December,Icelanders,15728.0,2010,Overnight stays,12
+December,Foreigners,38556.0,2010,Overnight stays,12
+January,Total,22877.0,2011,Arrivals,1
+January,Icelanders,7286.0,2011,Arrivals,1
+January,Foreigners,15591.0,2011,Arrivals,1
+January,Total,53588.0,2011,Overnight stays,1
+January,Icelanders,11357.0,2011,Overnight stays,1
+January,Foreigners,42231.0,2011,Overnight stays,1
+February,Total,35343.0,2011,Arrivals,2
+February,Icelanders,11795.0,2011,Arrivals,2
+February,Foreigners,23548.0,2011,Arrivals,2
+February,Total,79892.0,2011,Overnight stays,2
+February,Icelanders,19497.0,2011,Overnight stays,2
+February,Foreigners,60395.0,2011,Overnight stays,2
+March,Total,43346.0,2011,Arrivals,3
+March,Icelanders,15982.0,2011,Arrivals,3
+March,Foreigners,27364.0,2011,Arrivals,3
+March,Total,97299.0,2011,Overnight stays,3
+March,Icelanders,25990.0,2011,Overnight stays,3
+March,Foreigners,71309.0,2011,Overnight stays,3
+April,Total,51618.0,2011,Arrivals,4
+April,Icelanders,16939.0,2011,Arrivals,4
+April,Foreigners,34679.0,2011,Arrivals,4
+April,Total,109244.0,2011,Overnight stays,4
+April,Icelanders,27212.0,2011,Overnight stays,4
+April,Foreigners,82032.0,2011,Overnight stays,4
+May,Total,60697.0,2011,Arrivals,5
+May,Icelanders,15663.0,2011,Arrivals,5
+May,Foreigners,45034.0,2011,Arrivals,5
+May,Total,120522.0,2011,Overnight stays,5
+May,Icelanders,23154.0,2011,Overnight stays,5
+May,Foreigners,97368.0,2011,Overnight stays,5
+June,Total,99047.0,2011,Arrivals,6
+June,Icelanders,15365.0,2011,Arrivals,6
+June,Foreigners,83682.0,2011,Arrivals,6
+June,Total,178742.0,2011,Overnight stays,6
+June,Icelanders,24689.0,2011,Overnight stays,6
+June,Foreigners,154053.0,2011,Overnight stays,6
+July,Total,138255.0,2011,Arrivals,7
+July,Icelanders,15919.0,2011,Arrivals,7
+July,Foreigners,122336.0,2011,Arrivals,7
+July,Total,227480.0,2011,Overnight stays,7
+July,Icelanders,23407.0,2011,Overnight stays,7
+July,Foreigners,204073.0,2011,Overnight stays,7
+August,Total,128945.0,2011,Arrivals,8
+August,Icelanders,16782.0,2011,Arrivals,8
+August,Foreigners,112163.0,2011,Arrivals,8
+August,Total,218492.0,2011,Overnight stays,8
+August,Icelanders,26693.0,2011,Overnight stays,8
+August,Foreigners,191799.0,2011,Overnight stays,8
+September,Total,70166.0,2011,Arrivals,9
+September,Icelanders,15480.0,2011,Arrivals,9
+September,Foreigners,54686.0,2011,Arrivals,9
+September,Total,136473.0,2011,Overnight stays,9
+September,Icelanders,24774.0,2011,Overnight stays,9
+September,Foreigners,111699.0,2011,Overnight stays,9
+October,Total,54279.0,2011,Arrivals,10
+October,Icelanders,16900.0,2011,Arrivals,10
+October,Foreigners,37379.0,2011,Arrivals,10
+October,Total,117133.0,2011,Overnight stays,10
+October,Icelanders,27276.0,2011,Overnight stays,10
+October,Foreigners,89857.0,2011,Overnight stays,10
+November,Total,35166.0,2011,Arrivals,11
+November,Icelanders,13686.0,2011,Arrivals,11
+November,Foreigners,21480.0,2011,Arrivals,11
+November,Total,77621.0,2011,Overnight stays,11
+November,Icelanders,21324.0,2011,Overnight stays,11
+November,Foreigners,56297.0,2011,Overnight stays,11
+December,Total,29579.0,2011,Arrivals,12
+December,Icelanders,10892.0,2011,Arrivals,12
+December,Foreigners,18687.0,2011,Arrivals,12
+December,Total,69321.0,2011,Overnight stays,12
+December,Icelanders,16483.0,2011,Overnight stays,12
+December,Foreigners,52838.0,2011,Overnight stays,12
+January,Total,28961.0,2012,Arrivals,1
+January,Icelanders,8106.0,2012,Arrivals,1
+January,Foreigners,20855.0,2012,Arrivals,1
+January,Total,72302.0,2012,Overnight stays,1
+January,Icelanders,13984.0,2012,Overnight stays,1
+January,Foreigners,58318.0,2012,Overnight stays,1
+February,Total,45324.0,2012,Arrivals,2
+February,Icelanders,13528.0,2012,Arrivals,2
+February,Foreigners,31796.0,2012,Arrivals,2
+February,Total,103187.0,2012,Overnight stays,2
+February,Icelanders,23074.0,2012,Overnight stays,2
+February,Foreigners,80113.0,2012,Overnight stays,2
+March,Total,58104.0,2012,Arrivals,3
+March,Icelanders,18565.0,2012,Arrivals,3
+March,Foreigners,39539.0,2012,Arrivals,3
+March,Total,133517.0,2012,Overnight stays,3
+March,Icelanders,30547.0,2012,Overnight stays,3
+March,Foreigners,102970.0,2012,Overnight stays,3
+April,Total,51776.0,2012,Arrivals,4
+April,Icelanders,14906.0,2012,Arrivals,4
+April,Foreigners,36870.0,2012,Arrivals,4
+April,Total,120830.0,2012,Overnight stays,4
+April,Icelanders,25270.0,2012,Overnight stays,4
+April,Foreigners,95560.0,2012,Overnight stays,4
+May,Total,69181.0,2012,Arrivals,5
+May,Icelanders,17651.0,2012,Arrivals,5
+May,Foreigners,51530.0,2012,Arrivals,5
+May,Total,139541.0,2012,Overnight stays,5
+May,Icelanders,27182.0,2012,Overnight stays,5
+May,Foreigners,112359.0,2012,Overnight stays,5
+June,Total,115042.0,2012,Arrivals,6
+June,Icelanders,16820.0,2012,Arrivals,6
+June,Foreigners,98222.0,2012,Arrivals,6
+June,Total,208349.0,2012,Overnight stays,6
+June,Icelanders,28429.0,2012,Overnight stays,6
+June,Foreigners,179920.0,2012,Overnight stays,6
+July,Total,161479.0,2012,Arrivals,7
+July,Icelanders,16769.0,2012,Arrivals,7
+July,Foreigners,144710.0,2012,Arrivals,7
+July,Total,263797.0,2012,Overnight stays,7
+July,Icelanders,26405.0,2012,Overnight stays,7
+July,Foreigners,237392.0,2012,Overnight stays,7
+August,Total,146361.0,2012,Arrivals,8
+August,Icelanders,17262.0,2012,Arrivals,8
+August,Foreigners,129099.0,2012,Arrivals,8
+August,Total,248256.0,2012,Overnight stays,8
+August,Icelanders,27186.0,2012,Overnight stays,8
+August,Foreigners,221070.0,2012,Overnight stays,8
+September,Total,80296.0,2012,Arrivals,9
+September,Icelanders,17680.0,2012,Arrivals,9
+September,Foreigners,62616.0,2012,Arrivals,9
+September,Total,158660.0,2012,Overnight stays,9
+September,Icelanders,28696.0,2012,Overnight stays,9
+September,Foreigners,129964.0,2012,Overnight stays,9
+October,Total,61387.0,2012,Arrivals,10
+October,Icelanders,16380.0,2012,Arrivals,10
+October,Foreigners,45007.0,2012,Arrivals,10
+October,Total,133570.0,2012,Overnight stays,10
+October,Icelanders,27531.0,2012,Overnight stays,10
+October,Foreigners,106039.0,2012,Overnight stays,10
+November,Total,49310.0,2012,Arrivals,11
+November,Icelanders,16802.0,2012,Arrivals,11
+November,Foreigners,32508.0,2012,Arrivals,11
+November,Total,115438.0,2012,Overnight stays,11
+November,Icelanders,28557.0,2012,Overnight stays,11
+November,Foreigners,86881.0,2012,Overnight stays,11
+December,Total,38081.0,2012,Arrivals,12
+December,Icelanders,13195.0,2012,Arrivals,12
+December,Foreigners,24886.0,2012,Arrivals,12
+December,Total,89196.0,2012,Overnight stays,12
+December,Icelanders,20105.0,2012,Overnight stays,12
+December,Foreigners,69091.0,2012,Overnight stays,12
+January,Total,37690.0,2013,Arrivals,1
+January,Icelanders,8971.0,2013,Arrivals,1
+January,Foreigners,28719.0,2013,Arrivals,1
+January,Total,91145.0,2013,Overnight stays,1
+January,Icelanders,16058.0,2013,Overnight stays,1
+January,Foreigners,75087.0,2013,Overnight stays,1
+February,Total,58605.0,2013,Arrivals,2
+February,Icelanders,13399.0,2013,Arrivals,2
+February,Foreigners,45206.0,2013,Arrivals,2
+February,Total,141767.0,2013,Overnight stays,2
+February,Icelanders,25121.0,2013,Overnight stays,2
+February,Foreigners,116646.0,2013,Overnight stays,2
+March,Total,71056.0,2013,Arrivals,3
+March,Icelanders,18689.0,2013,Arrivals,3
+March,Foreigners,52367.0,2013,Arrivals,3
+March,Total,167544.0,2013,Overnight stays,3
+March,Icelanders,33649.0,2013,Overnight stays,3
+March,Foreigners,133895.0,2013,Overnight stays,3
+April,Total,59112.0,2013,Arrivals,4
+April,Icelanders,16820.0,2013,Arrivals,4
+April,Foreigners,42292.0,2013,Arrivals,4
+April,Total,132297.0,2013,Overnight stays,4
+April,Icelanders,28545.0,2013,Overnight stays,4
+April,Foreigners,103752.0,2013,Overnight stays,4
+May,Total,80895.0,2013,Arrivals,5
+May,Icelanders,19513.0,2013,Arrivals,5
+May,Foreigners,61382.0,2013,Arrivals,5
+May,Total,160557.0,2013,Overnight stays,5
+May,Icelanders,33137.0,2013,Overnight stays,5
+May,Foreigners,127420.0,2013,Overnight stays,5
+June,Total,132004.0,2013,Arrivals,6
+June,Icelanders,18736.0,2013,Arrivals,6
+June,Foreigners,113268.0,2013,Arrivals,6
+June,Total,231809.0,2013,Overnight stays,6
+June,Icelanders,29760.0,2013,Overnight stays,6
+June,Foreigners,202049.0,2013,Overnight stays,6
+July,Total,177453.0,2013,Arrivals,7
+July,Icelanders,17049.0,2013,Arrivals,7
+July,Foreigners,160404.0,2013,Arrivals,7
+July,Total,285435.0,2013,Overnight stays,7
+July,Icelanders,26331.0,2013,Overnight stays,7
+July,Foreigners,259104.0,2013,Overnight stays,7
+August,Total,159645.0,2013,Arrivals,8
+August,Icelanders,17926.0,2013,Arrivals,8
+August,Foreigners,141719.0,2013,Arrivals,8
+August,Total,259891.0,2013,Overnight stays,8
+August,Icelanders,28030.0,2013,Overnight stays,8
+August,Foreigners,231861.0,2013,Overnight stays,8
+September,Total,86210.0,2013,Arrivals,9
+September,Icelanders,19401.0,2013,Arrivals,9
+September,Foreigners,66809.0,2013,Arrivals,9
+September,Total,167097.0,2013,Overnight stays,9
+September,Icelanders,35286.0,2013,Overnight stays,9
+September,Foreigners,131811.0,2013,Overnight stays,9
+October,Total,74402.0,2013,Arrivals,10
+October,Icelanders,20710.0,2013,Arrivals,10
+October,Foreigners,53692.0,2013,Arrivals,10
+October,Total,157847.0,2013,Overnight stays,10
+October,Icelanders,36180.0,2013,Overnight stays,10
+October,Foreigners,121667.0,2013,Overnight stays,10
+November,Total,61472.0,2013,Arrivals,11
+November,Icelanders,19019.0,2013,Arrivals,11
+November,Foreigners,42453.0,2013,Arrivals,11
+November,Total,137675.0,2013,Overnight stays,11
+November,Icelanders,29821.0,2013,Overnight stays,11
+November,Foreigners,107854.0,2013,Overnight stays,11
+December,Total,48697.0,2013,Arrivals,12
+December,Icelanders,12081.0,2013,Arrivals,12
+December,Foreigners,36616.0,2013,Arrivals,12
+December,Total,117099.0,2013,Overnight stays,12
+December,Icelanders,19121.0,2013,Overnight stays,12
+December,Foreigners,97978.0,2013,Overnight stays,12
+January,Total,49252.0,2014,Arrivals,1
+January,Icelanders,10875.0,2014,Arrivals,1
+January,Foreigners,38377.0,2014,Arrivals,1
+January,Total,119522.0,2014,Overnight stays,1
+January,Icelanders,19923.0,2014,Overnight stays,1
+January,Foreigners,99599.0,2014,Overnight stays,1
+February,Total,70906.0,2014,Arrivals,2
+February,Icelanders,14922.0,2014,Arrivals,2
+February,Foreigners,55984.0,2014,Arrivals,2
+February,Total,160444.0,2014,Overnight stays,2
+February,Icelanders,24911.0,2014,Overnight stays,2
+February,Foreigners,135533.0,2014,Overnight stays,2
+March,Total,84453.0,2014,Arrivals,3
+March,Icelanders,19876.0,2014,Arrivals,3
+March,Foreigners,64577.0,2014,Arrivals,3
+March,Total,190004.0,2014,Overnight stays,3
+March,Icelanders,32591.0,2014,Overnight stays,3
+March,Foreigners,157413.0,2014,Overnight stays,3
+April,Total,72044.0,2014,Arrivals,4
+April,Icelanders,19030.0,2014,Arrivals,4
+April,Foreigners,53014.0,2014,Arrivals,4
+April,Total,157418.0,2014,Overnight stays,4
+April,Icelanders,32935.0,2014,Overnight stays,4
+April,Foreigners,124483.0,2014,Overnight stays,4
+May,Total,90539.0,2014,Arrivals,5
+May,Icelanders,21387.0,2014,Arrivals,5
+May,Foreigners,69152.0,2014,Arrivals,5
+May,Total,179956.0,2014,Overnight stays,5
+May,Icelanders,35838.0,2014,Overnight stays,5
+May,Foreigners,144118.0,2014,Overnight stays,5
+June,Total,141691.0,2014,Arrivals,6
+June,Icelanders,16249.0,2014,Arrivals,6
+June,Foreigners,125442.0,2014,Arrivals,6
+June,Total,239802.0,2014,Overnight stays,6
+June,Icelanders,25749.0,2014,Overnight stays,6
+June,Foreigners,214053.0,2014,Overnight stays,6
+July,Total,192011.0,2014,Arrivals,7
+July,Icelanders,17284.0,2014,Arrivals,7
+July,Foreigners,174727.0,2014,Arrivals,7
+July,Total,299419.0,2014,Overnight stays,7
+July,Icelanders,25717.0,2014,Overnight stays,7
+July,Foreigners,273702.0,2014,Overnight stays,7
+August,Total,183369.0,2014,Arrivals,8
+August,Icelanders,17807.0,2014,Arrivals,8
+August,Foreigners,165562.0,2014,Arrivals,8
+August,Total,287649.0,2014,Overnight stays,8
+August,Icelanders,26870.0,2014,Overnight stays,8
+August,Foreigners,260779.0,2014,Overnight stays,8
+September,Total,106429.0,2014,Arrivals,9
+September,Icelanders,19449.0,2014,Arrivals,9
+September,Foreigners,86980.0,2014,Arrivals,9
+September,Total,198418.0,2014,Overnight stays,9
+September,Icelanders,33108.0,2014,Overnight stays,9
+September,Foreigners,165310.0,2014,Overnight stays,9
+October,Total,87048.0,2014,Arrivals,10
+October,Icelanders,19947.0,2014,Arrivals,10
+October,Foreigners,67101.0,2014,Arrivals,10
+October,Total,182734.0,2014,Overnight stays,10
+October,Icelanders,33255.0,2014,Overnight stays,10
+October,Foreigners,149479.0,2014,Overnight stays,10
+November,Total,68929.0,2014,Arrivals,11
+November,Icelanders,17652.0,2014,Arrivals,11
+November,Foreigners,51277.0,2014,Arrivals,11
+November,Total,158604.0,2014,Overnight stays,11
+November,Icelanders,26871.0,2014,Overnight stays,11
+November,Foreigners,131733.0,2014,Overnight stays,11
+December,Total,58583.0,2014,Arrivals,12
+December,Icelanders,14071.0,2014,Arrivals,12
+December,Foreigners,44512.0,2014,Arrivals,12
+December,Total,133344.0,2014,Overnight stays,12
+December,Icelanders,21400.0,2014,Overnight stays,12
+December,Foreigners,111944.0,2014,Overnight stays,12
+January,Total,65789.0,2015,Arrivals,1
+January,Icelanders,11986.0,2015,Arrivals,1
+January,Foreigners,53803.0,2015,Arrivals,1
+January,Total,158158.0,2015,Overnight stays,1
+January,Icelanders,20542.0,2015,Overnight stays,1
+January,Foreigners,137616.0,2015,Overnight stays,1
+February,Total,87475.0,2015,Arrivals,2
+February,Icelanders,15035.0,2015,Arrivals,2
+February,Foreigners,72440.0,2015,Arrivals,2
+February,Total,196023.0,2015,Overnight stays,2
+February,Icelanders,24991.0,2015,Overnight stays,2
+February,Foreigners,171032.0,2015,Overnight stays,2
+March,Total,104238.0,2015,Arrivals,3
+March,Icelanders,18429.0,2015,Arrivals,3
+March,Foreigners,85809.0,2015,Arrivals,3
+March,Total,220880.0,2015,Overnight stays,3
+March,Icelanders,30318.0,2015,Overnight stays,3
+March,Foreigners,190562.0,2015,Overnight stays,3
+April,Total,85112.0,2015,Arrivals,4
+April,Icelanders,18578.0,2015,Arrivals,4
+April,Foreigners,66534.0,2015,Arrivals,4
+April,Total,176777.0,2015,Overnight stays,4
+April,Icelanders,29919.0,2015,Overnight stays,4
+April,Foreigners,146858.0,2015,Overnight stays,4
+May,Total,117728.0,2015,Arrivals,5
+May,Icelanders,19727.0,2015,Arrivals,5
+May,Foreigners,98001.0,2015,Arrivals,5
+May,Total,220423.0,2015,Overnight stays,5
+May,Icelanders,31392.0,2015,Overnight stays,5
+May,Foreigners,189031.0,2015,Overnight stays,5
+June,Total,176604.0,2015,Arrivals,6
+June,Icelanders,16997.0,2015,Arrivals,6
+June,Foreigners,159607.0,2015,Arrivals,6
+June,Total,287490.0,2015,Overnight stays,6
+June,Icelanders,25907.0,2015,Overnight stays,6
+June,Foreigners,261583.0,2015,Overnight stays,6
+July,Total,239075.0,2015,Arrivals,7
+July,Icelanders,18126.0,2015,Arrivals,7
+July,Foreigners,220949.0,2015,Arrivals,7
+July,Total,363834.0,2015,Overnight stays,7
+July,Icelanders,25470.0,2015,Overnight stays,7
+July,Foreigners,338364.0,2015,Overnight stays,7
+August,Total,223973.0,2015,Arrivals,8
+August,Icelanders,18583.0,2015,Arrivals,8
+August,Foreigners,205390.0,2015,Arrivals,8
+August,Total,351468.0,2015,Overnight stays,8
+August,Icelanders,28196.0,2015,Overnight stays,8
+August,Foreigners,323272.0,2015,Overnight stays,8
+September,Total,148496.0,2015,Arrivals,9
+September,Icelanders,19094.0,2015,Arrivals,9
+September,Foreigners,129402.0,2015,Arrivals,9
+September,Total,261219.0,2015,Overnight stays,9
+September,Icelanders,29643.0,2015,Overnight stays,9
+September,Foreigners,231576.0,2015,Overnight stays,9
+October,Total,123014.0,2015,Arrivals,10
+October,Icelanders,19890.0,2015,Arrivals,10
+October,Foreigners,103124.0,2015,Arrivals,10
+October,Total,242985.0,2015,Overnight stays,10
+October,Icelanders,30437.0,2015,Overnight stays,10
+October,Foreigners,212548.0,2015,Overnight stays,10
+November,Total,90729.0,2015,Arrivals,11
+November,Icelanders,17094.0,2015,Arrivals,11
+November,Foreigners,73635.0,2015,Arrivals,11
+November,Total,206477.0,2015,Overnight stays,11
+November,Icelanders,25308.0,2015,Overnight stays,11
+November,Foreigners,181169.0,2015,Overnight stays,11
+December,Total,82510.0,2015,Arrivals,12
+December,Icelanders,13977.0,2015,Arrivals,12
+December,Foreigners,68533.0,2015,Arrivals,12
+December,Total,184694.0,2015,Overnight stays,12
+December,Icelanders,21156.0,2015,Overnight stays,12
+December,Foreigners,163538.0,2015,Overnight stays,12
+January,Total,84076.0,2016,Arrivals,1
+January,Icelanders,14559.0,2016,Arrivals,1
+January,Foreigners,69517.0,2016,Arrivals,1
+January,Total,198570.0,2016,Overnight stays,1
+January,Icelanders,25622.0,2016,Overnight stays,1
+January,Foreigners,172948.0,2016,Overnight stays,1
+February,Total,126449.0,2016,Arrivals,2
+February,Icelanders,17742.0,2016,Arrivals,2
+February,Foreigners,108707.0,2016,Arrivals,2
+February,Total,277820.0,2016,Overnight stays,2
+February,Icelanders,32047.0,2016,Overnight stays,2
+February,Foreigners,245773.0,2016,Overnight stays,2
+March,Total,143515.0,2016,Arrivals,3
+March,Icelanders,20968.0,2016,Arrivals,3
+March,Foreigners,122547.0,2016,Arrivals,3
+March,Total,301331.0,2016,Overnight stays,3
+March,Icelanders,36438.0,2016,Overnight stays,3
+March,Foreigners,264893.0,2016,Overnight stays,3
+April,Total,110988.0,2016,Arrivals,4
+April,Icelanders,23821.0,2016,Arrivals,4
+April,Foreigners,87167.0,2016,Arrivals,4
+April,Total,233195.0,2016,Overnight stays,4
+April,Icelanders,37606.0,2016,Overnight stays,4
+April,Foreigners,195589.0,2016,Overnight stays,4
+May,Total,155664.0,2016,Arrivals,5
+May,Icelanders,19591.0,2016,Arrivals,5
+May,Foreigners,136073.0,2016,Arrivals,5
+May,Total,282709.0,2016,Overnight stays,5
+May,Icelanders,33646.0,2016,Overnight stays,5
+May,Foreigners,249063.0,2016,Overnight stays,5
+June,Total,225983.0,2016,Arrivals,6
+June,Icelanders,20080.0,2016,Arrivals,6
+June,Foreigners,205903.0,2016,Arrivals,6
+June,Total,369243.0,2016,Overnight stays,6
+June,Icelanders,27963.0,2016,Overnight stays,6
+June,Foreigners,341280.0,2016,Overnight stays,6
+July,Total,300463.0,2016,Arrivals,7
+July,Icelanders,24575.0,2016,Arrivals,7
+July,Foreigners,275888.0,2016,Arrivals,7
+July,Total,455514.0,2016,Overnight stays,7
+July,Icelanders,33494.0,2016,Overnight stays,7
+July,Foreigners,422020.0,2016,Overnight stays,7
+August,Total,287503.0,2016,Arrivals,8
+August,Icelanders,25271.0,2016,Arrivals,8
+August,Foreigners,262232.0,2016,Arrivals,8
+August,Total,447158.0,2016,Overnight stays,8
+August,Icelanders,35322.0,2016,Overnight stays,8
+August,Foreigners,411836.0,2016,Overnight stays,8
+September,Total,220457.0,2016,Arrivals,9
+September,Icelanders,26865.0,2016,Arrivals,9
+September,Foreigners,193592.0,2016,Arrivals,9
+September,Total,367061.0,2016,Overnight stays,9
+September,Icelanders,39637.0,2016,Overnight stays,9
+September,Foreigners,327424.0,2016,Overnight stays,9
+October,Total,181401.0,2016,Arrivals,10
+October,Icelanders,25370.0,2016,Arrivals,10
+October,Foreigners,156031.0,2016,Arrivals,10
+October,Total,339965.0,2016,Overnight stays,10
+October,Icelanders,41346.0,2016,Overnight stays,10
+October,Foreigners,298619.0,2016,Overnight stays,10
+November,Total,148640.0,2016,Arrivals,11
+November,Icelanders,20506.0,2016,Arrivals,11
+November,Foreigners,128134.0,2016,Arrivals,11
+November,Total,303831.0,2016,Overnight stays,11
+November,Icelanders,31685.0,2016,Overnight stays,11
+November,Foreigners,272146.0,2016,Overnight stays,11
+December,Total,141578.0,2016,Arrivals,12
+December,Icelanders,18303.0,2016,Arrivals,12
+December,Foreigners,123275.0,2016,Arrivals,12
+December,Total,290365.0,2016,Overnight stays,12
+December,Icelanders,28554.0,2016,Overnight stays,12
+December,Foreigners,261811.0,2016,Overnight stays,12
+January,Total,139275.0,2017,Arrivals,1
+January,Icelanders,15746.0,2017,Arrivals,1
+January,Foreigners,123529.0,2017,Arrivals,1
+January,Total,288745.0,2017,Overnight stays,1
+January,Icelanders,25375.0,2017,Overnight stays,1
+January,Foreigners,263370.0,2017,Overnight stays,1
+February,Total,173690.0,2017,Arrivals,2
+February,Icelanders,21583.0,2017,Arrivals,2
+February,Foreigners,152107.0,2017,Arrivals,2
+February,Total,334441.0,2017,Overnight stays,2
+February,Icelanders,35618.0,2017,Overnight stays,2
+February,Foreigners,298823.0,2017,Overnight stays,2
+March,Total,190461.0,2017,Arrivals,3
+March,Icelanders,24285.0,2017,Arrivals,3
+March,Foreigners,166176.0,2017,Arrivals,3
+March,Total,358273.0,2017,Overnight stays,3
+March,Icelanders,37823.0,2017,Overnight stays,3
+March,Foreigners,320450.0,2017,Overnight stays,3
+April,Total,155741.0,2017,Arrivals,4
+April,Icelanders,21973.0,2017,Arrivals,4
+April,Foreigners,133768.0,2017,Arrivals,4
+April,Total,294349.0,2017,Overnight stays,4
+April,Icelanders,38125.0,2017,Overnight stays,4
+April,Foreigners,256224.0,2017,Overnight stays,4
+May,Total,172925.0,2017,Arrivals,5
+May,Icelanders,23851.0,2017,Arrivals,5
+May,Foreigners,149074.0,2017,Arrivals,5
+May,Total,304452.0,2017,Overnight stays,5
+May,Icelanders,38506.0,2017,Overnight stays,5
+May,Foreigners,265946.0,2017,Overnight stays,5
+June,Total,250252.0,2017,Arrivals,6
+June,Icelanders,15438.0,2017,Arrivals,6
+June,Foreigners,234814.0,2017,Arrivals,6
+June,Total,395881.0,2017,Overnight stays,6
+June,Icelanders,24115.0,2017,Overnight stays,6
+June,Foreigners,371766.0,2017,Overnight stays,6
+July,Total,307058.0,2017,Arrivals,7
+July,Icelanders,25292.0,2017,Arrivals,7
+July,Foreigners,281766.0,2017,Arrivals,7
+July,Total,473604.0,2017,Overnight stays,7
+July,Icelanders,38667.0,2017,Overnight stays,7
+July,Foreigners,434937.0,2017,Overnight stays,7
+August,Total,294031.0,2017,Arrivals,8
+August,Icelanders,21049.0,2017,Arrivals,8
+August,Foreigners,272982.0,2017,Arrivals,8
+August,Total,464109.0,2017,Overnight stays,8
+August,Icelanders,32507.0,2017,Overnight stays,8
+August,Foreigners,431602.0,2017,Overnight stays,8
+September,Total,233894.0,2017,Arrivals,9
+September,Icelanders,21378.0,2017,Arrivals,9
+September,Foreigners,212516.0,2017,Arrivals,9
+September,Total,383203.0,2017,Overnight stays,9
+September,Icelanders,33438.0,2017,Overnight stays,9
+September,Foreigners,349765.0,2017,Overnight stays,9
+October,Total,202749.0,2017,Arrivals,10
+October,Icelanders,26170.0,2017,Arrivals,10
+October,Foreigners,176579.0,2017,Arrivals,10
+October,Total,368224.0,2017,Overnight stays,10
+October,Icelanders,41950.0,2017,Overnight stays,10
+October,Foreigners,326274.0,2017,Overnight stays,10
+November,Total,159710.0,2017,Arrivals,11
+November,Icelanders,22471.0,2017,Arrivals,11
+November,Foreigners,137239.0,2017,Arrivals,11
+November,Total,304696.0,2017,Overnight stays,11
+November,Icelanders,33911.0,2017,Overnight stays,11
+November,Foreigners,270785.0,2017,Overnight stays,11
+December,Total,150387.0,2017,Arrivals,12
+December,Icelanders,19360.0,2017,Arrivals,12
+December,Foreigners,131027.0,2017,Arrivals,12
+December,Total,300650.0,2017,Overnight stays,12
+December,Icelanders,27939.0,2017,Overnight stays,12
+December,Foreigners,272711.0,2017,Overnight stays,12
+January,Total,144210.0,2018,Arrivals,1
+January,Icelanders,16514.0,2018,Arrivals,1
+January,Foreigners,127696.0,2018,Arrivals,1
+January,Total,290456.0,2018,Overnight stays,1
+January,Icelanders,27163.0,2018,Overnight stays,1
+January,Foreigners,263293.0,2018,Overnight stays,1
+February,Total,189868.0,2018,Arrivals,2
+February,Icelanders,20310.0,2018,Arrivals,2
+February,Foreigners,169558.0,2018,Arrivals,2
+February,Total,353140.0,2018,Overnight stays,2
+February,Icelanders,31793.0,2018,Overnight stays,2
+February,Foreigners,321347.0,2018,Overnight stays,2
+March,Total,209461.0,2018,Arrivals,3
+March,Icelanders,27588.0,2018,Arrivals,3
+March,Foreigners,181873.0,2018,Arrivals,3
+March,Total,381803.0,2018,Overnight stays,3
+March,Icelanders,45287.0,2018,Overnight stays,3
+March,Foreigners,336516.0,2018,Overnight stays,3
+April,Total,151647.0,2018,Arrivals,4
+April,Icelanders,28155.0,2018,Arrivals,4
+April,Foreigners,123492.0,2018,Arrivals,4
+April,Total,280446.0,2018,Overnight stays,4
+April,Icelanders,45359.0,2018,Overnight stays,4
+April,Foreigners,235087.0,2018,Overnight stays,4
+May,Total,191140.0,2018,Arrivals,5
+May,Icelanders,27846.0,2018,Arrivals,5
+May,Foreigners,163294.0,2018,Arrivals,5
+May,Total,317689.0,2018,Overnight stays,5
+May,Icelanders,43651.0,2018,Overnight stays,5
+May,Foreigners,274038.0,2018,Overnight stays,5
+June,Total,269423.0,2018,Arrivals,6
+June,Icelanders,27600.0,2018,Arrivals,6
+June,Foreigners,241823.0,2018,Arrivals,6
+June,Total,419173.0,2018,Overnight stays,6
+June,Icelanders,42551.0,2018,Overnight stays,6
+June,Foreigners,376622.0,2018,Overnight stays,6
+July,Total,323411.0,2018,Arrivals,7
+July,Icelanders,30395.0,2018,Arrivals,7
+July,Foreigners,293016.0,2018,Arrivals,7
+July,Total,486790.0,2018,Overnight stays,7
+July,Icelanders,44321.0,2018,Overnight stays,7
+July,Foreigners,442469.0,2018,Overnight stays,7
+August,Total,336636.0,2018,Arrivals,8
+August,Icelanders,26668.0,2018,Arrivals,8
+August,Foreigners,309968.0,2018,Arrivals,8
+August,Total,504455.0,2018,Overnight stays,8
+August,Icelanders,38002.0,2018,Overnight stays,8
+August,Foreigners,466453.0,2018,Overnight stays,8
+September,Total,276188.0,2018,Arrivals,9
+September,Icelanders,24638.0,2018,Arrivals,9
+September,Foreigners,251550.0,2018,Arrivals,9
+September,Total,431415.0,2018,Overnight stays,9
+September,Icelanders,35303.0,2018,Overnight stays,9
+September,Foreigners,396112.0,2018,Overnight stays,9
+October,Total,231224.0,2018,Arrivals,10
+October,Icelanders,24691.0,2018,Arrivals,10
+October,Foreigners,206533.0,2018,Arrivals,10
+October,Total,398313.0,2018,Overnight stays,10
+October,Icelanders,36838.0,2018,Overnight stays,10
+October,Foreigners,361475.0,2018,Overnight stays,10
+November,Total,163589.0,2018,Arrivals,11
+November,Icelanders,25901.0,2018,Arrivals,11
+November,Foreigners,137688.0,2018,Arrivals,11
+November,Total,306768.0,2018,Overnight stays,11
+November,Icelanders,38414.0,2018,Overnight stays,11
+November,Foreigners,268354.0,2018,Overnight stays,11
+December,Total,157131.0,2018,Arrivals,12
+December,Icelanders,20783.0,2018,Arrivals,12
+December,Foreigners,136348.0,2018,Arrivals,12
+December,Total,302422.0,2018,Overnight stays,12
+December,Icelanders,30072.0,2018,Overnight stays,12
+December,Foreigners,272350.0,2018,Overnight stays,12
+January,Total,133909.0,2019,Arrivals,1
+January,Icelanders,15214.0,2019,Arrivals,1
+January,Foreigners,118695.0,2019,Arrivals,1
+January,Total,272066.0,2019,Overnight stays,1
+January,Icelanders,23872.0,2019,Overnight stays,1
+January,Foreigners,248194.0,2019,Overnight stays,1
+February,Total,189371.0,2019,Arrivals,2
+February,Icelanders,18368.0,2019,Arrivals,2
+February,Foreigners,171003.0,2019,Arrivals,2
+February,Total,350348.0,2019,Overnight stays,2
+February,Icelanders,29989.0,2019,Overnight stays,2
+February,Foreigners,320359.0,2019,Overnight stays,2
+March,Total,214846.0,2019,Arrivals,3
+March,Icelanders,27525.0,2019,Arrivals,3
+March,Foreigners,187321.0,2019,Arrivals,3
+March,Total,382357.0,2019,Overnight stays,3
+March,Icelanders,40338.0,2019,Overnight stays,3
+March,Foreigners,342019.0,2019,Overnight stays,3
+April,Total,158593.0,2019,Arrivals,4
+April,Icelanders,25155.0,2019,Arrivals,4
+April,Foreigners,133438.0,2019,Arrivals,4
+April,Total,272590.0,2019,Overnight stays,4
+April,Icelanders,37054.0,2019,Overnight stays,4
+April,Foreigners,235536.0,2019,Overnight stays,4
+May,Total,187241.0,2019,Arrivals,5
+May,Icelanders,25131.0,2019,Arrivals,5
+May,Foreigners,162110.0,2019,Arrivals,5
+May,Total,315015.0,2019,Overnight stays,5
+May,Icelanders,38266.0,2019,Overnight stays,5
+May,Foreigners,276749.0,2019,Overnight stays,5
+June,Total,278217.0,2019,Arrivals,6
+June,Icelanders,26499.0,2019,Arrivals,6
+June,Foreigners,251718.0,2019,Arrivals,6
+June,Total,420320.0,2019,Overnight stays,6
+June,Icelanders,38164.0,2019,Overnight stays,6
+June,Foreigners,382156.0,2019,Overnight stays,6
+July,Total,347228.0,2019,Arrivals,7
+July,Icelanders,28160.0,2019,Arrivals,7
+July,Foreigners,319068.0,2019,Arrivals,7
+July,Total,507829.0,2019,Overnight stays,7
+July,Icelanders,39656.0,2019,Overnight stays,7
+July,Foreigners,468173.0,2019,Overnight stays,7
+August,Total,352994.0,2019,Arrivals,8
+August,Icelanders,26922.0,2019,Arrivals,8
+August,Foreigners,326072.0,2019,Arrivals,8
+August,Total,522945.0,2019,Overnight stays,8
+August,Icelanders,38181.0,2019,Overnight stays,8
+August,Foreigners,484764.0,2019,Overnight stays,8
+September,Total,282235.0,2019,Arrivals,9
+September,Icelanders,25003.0,2019,Arrivals,9
+September,Foreigners,257232.0,2019,Arrivals,9
+September,Total,434206.0,2019,Overnight stays,9
+September,Icelanders,37485.0,2019,Overnight stays,9
+September,Foreigners,396721.0,2019,Overnight stays,9
+October,Total,247787.0,2019,Arrivals,10
+October,Icelanders,25192.0,2019,Arrivals,10
+October,Foreigners,222595.0,2019,Arrivals,10
+October,Total,418605.0,2019,Overnight stays,10
+October,Icelanders,39639.0,2019,Overnight stays,10
+October,Foreigners,378966.0,2019,Overnight stays,10
+November,Total,174092.0,2019,Arrivals,11
+November,Icelanders,29107.0,2019,Arrivals,11
+November,Foreigners,144985.0,2019,Arrivals,11
+November,Total,329598.0,2019,Overnight stays,11
+November,Icelanders,43926.0,2019,Overnight stays,11
+November,Foreigners,285672.0,2019,Overnight stays,11
+December,Total,163728.0,2019,Arrivals,12
+December,Icelanders,22389.0,2019,Arrivals,12
+December,Foreigners,141339.0,2019,Arrivals,12
+December,Total,307186.0,2019,Overnight stays,12
+December,Icelanders,32209.0,2019,Overnight stays,12
+December,Foreigners,274977.0,2019,Overnight stays,12
+January,Total,156245.0,2020,Arrivals,1
+January,Icelanders,17646.0,2020,Arrivals,1
+January,Foreigners,138599.0,2020,Arrivals,1
+January,Total,292093.0,2020,Overnight stays,1
+January,Icelanders,26396.0,2020,Overnight stays,1
+January,Foreigners,265697.0,2020,Overnight stays,1
+February,Total,173160.0,2020,Arrivals,2
+February,Icelanders,20783.0,2020,Arrivals,2
+February,Foreigners,152377.0,2020,Arrivals,2
+February,Total,336105.0,2020,Overnight stays,2
+February,Icelanders,32254.0,2020,Overnight stays,2
+February,Foreigners,303851.0,2020,Overnight stays,2
+March,Total,94410.0,2020,Arrivals,3
+March,Icelanders,11854.0,2020,Arrivals,3
+March,Foreigners,82556.0,2020,Arrivals,3
+March,Total,173074.0,2020,Overnight stays,3
+March,Icelanders,18636.0,2020,Overnight stays,3
+March,Foreigners,154438.0,2020,Overnight stays,3
+April,Total,4209.0,2020,Arrivals,4
+April,Icelanders,2685.0,2020,Arrivals,4
+April,Foreigners,1524.0,2020,Arrivals,4
+April,Total,9694.0,2020,Overnight stays,4
+April,Icelanders,6074.0,2020,Overnight stays,4
+April,Foreigners,3620.0,2020,Overnight stays,4
+May,Total,25809.0,2020,Arrivals,5
+May,Icelanders,23649.0,2020,Arrivals,5
+May,Foreigners,2160.0,2020,Arrivals,5
+May,Total,37796.0,2020,Overnight stays,5
+May,Icelanders,33717.0,2020,Overnight stays,5
+May,Foreigners,4079.0,2020,Overnight stays,5
+June,Total,61245.0,2020,Arrivals,6
+June,Icelanders,50983.0,2020,Arrivals,6
+June,Foreigners,10262.0,2020,Arrivals,6
+June,Total,91207.0,2020,Overnight stays,6
+June,Icelanders,74115.0,2020,Overnight stays,6
+June,Foreigners,17092.0,2020,Overnight stays,6
+July,Total,156959.0,2020,Arrivals,7
+July,Icelanders,90154.0,2020,Arrivals,7
+July,Foreigners,66805.0,2020,Arrivals,7
+July,Total,234988.0,2020,Overnight stays,7
+July,Icelanders,129611.0,2020,Overnight stays,7
+July,Foreigners,105377.0,2020,Overnight stays,7
+August,Total,121020.0,2020,Arrivals,8
+August,Icelanders,62933.0,2020,Arrivals,8
+August,Foreigners,58087.0,2020,Arrivals,8
+August,Total,180574.0,2020,Overnight stays,8
+August,Icelanders,89020.0,2020,Overnight stays,8
+August,Foreigners,91554.0,2020,Overnight stays,8
+September,Total,38572.0,2020,Arrivals,9
+September,Icelanders,30165.0,2020,Arrivals,9
+September,Foreigners,8407.0,2020,Arrivals,9
+September,Total,66004.0,2020,Overnight stays,9
+September,Icelanders,46540.0,2020,Overnight stays,9
+September,Foreigners,19464.0,2020,Overnight stays,9
+October,Total,20359.0,2020,Arrivals,10
+October,Icelanders,15891.0,2020,Arrivals,10
+October,Foreigners,4468.0,2020,Arrivals,10
+October,Total,41217.0,2020,Overnight stays,10
+October,Icelanders,27486.0,2020,Overnight stays,10
+October,Foreigners,13731.0,2020,Overnight stays,10
+November,Total,12392.0,2020,Arrivals,11
+November,Icelanders,9913.0,2020,Arrivals,11
+November,Foreigners,2479.0,2020,Arrivals,11
+November,Total,25388.0,2020,Overnight stays,11
+November,Icelanders,16708.0,2020,Overnight stays,11
+November,Foreigners,8680.0,2020,Overnight stays,11
+December,Total,13840.0,2020,Arrivals,12
+December,Icelanders,12068.0,2020,Arrivals,12
+December,Foreigners,1772.0,2020,Arrivals,12
+December,Total,22761.0,2020,Overnight stays,12
+December,Icelanders,18501.0,2020,Overnight stays,12
+December,Foreigners,4260.0,2020,Overnight stays,12
+January,Total,17833.0,2021,Arrivals,1
+January,Icelanders,15433.0,2021,Arrivals,1
+January,Foreigners,2400.0,2021,Arrivals,1
+January,Total,33433.0,2021,Overnight stays,1
+January,Icelanders,25733.0,2021,Overnight stays,1
+January,Foreigners,7700.0,2021,Overnight stays,1
+February,Total,27934.0,2021,Arrivals,2
+February,Icelanders,25540.0,2021,Arrivals,2
+February,Foreigners,2394.0,2021,Arrivals,2
+February,Total,46649.0,2021,Overnight stays,2
+February,Icelanders,39935.0,2021,Overnight stays,2
+February,Foreigners,6714.0,2021,Overnight stays,2
+March,Total,31248.0,2021,Arrivals,3
+March,Icelanders,27550.0,2021,Arrivals,3
+March,Foreigners,3698.0,2021,Arrivals,3
+March,Total,56357.0,2021,Overnight stays,3
+March,Icelanders,44589.0,2021,Overnight stays,3
+March,Foreigners,11768.0,2021,Overnight stays,3
+April,Total,27561.0,2021,Arrivals,4
+April,Icelanders,22150.0,2021,Arrivals,4
+April,Foreigners,5411.0,2021,Arrivals,4
+April,Total,52879.0,2021,Overnight stays,4
+April,Icelanders,35664.0,2021,Overnight stays,4
+April,Foreigners,17215.0,2021,Overnight stays,4
+May,Total,67702.0,2021,Arrivals,5
+May,Icelanders,42313.0,2021,Arrivals,5
+May,Foreigners,25389.0,2021,Arrivals,5
+May,Total,113009.0,2021,Overnight stays,5
+May,Icelanders,64431.0,2021,Overnight stays,5
+May,Foreigners,48578.0,2021,Overnight stays,5
+June,Total,123567.0,2021,Arrivals,6
+June,Icelanders,48945.0,2021,Arrivals,6
+June,Foreigners,74622.0,2021,Arrivals,6
+June,Total,198413.0,2021,Overnight stays,6
+June,Icelanders,73991.0,2021,Overnight stays,6
+June,Foreigners,124422.0,2021,Overnight stays,6
+July,Total,250720.0,2021,Arrivals,7
+July,Icelanders,75268.0,2021,Arrivals,7
+July,Foreigners,175452.0,2021,Arrivals,7
+July,Total,389153.0,2021,Overnight stays,7
+July,Icelanders,110591.0,2021,Overnight stays,7
+July,Foreigners,278562.0,2021,Overnight stays,7
+August,Total,300034.0,2021,Arrivals,8
+August,Icelanders,68694.0,2021,Arrivals,8
+August,Foreigners,231340.0,2021,Arrivals,8
+August,Total,461022.0,2021,Overnight stays,8
+August,Icelanders,93978.0,2021,Overnight stays,8
+August,Foreigners,367044.0,2021,Overnight stays,8
+September,Total,230270.0,2021,Arrivals,9
+September,Icelanders,52743.0,2021,Arrivals,9
+September,Foreigners,177527.0,2021,Arrivals,9
+September,Total,372786.0,2021,Overnight stays,9
+September,Icelanders,82473.0,2021,Overnight stays,9
+September,Foreigners,290313.0,2021,Overnight stays,9
+October,Total,198478.0,2021,Arrivals,10
+October,Icelanders,43320.0,2021,Arrivals,10
+October,Foreigners,155158.0,2021,Arrivals,10
+October,Total,369413.0,2021,Overnight stays,10
+October,Icelanders,74690.0,2021,Overnight stays,10
+October,Foreigners,294723.0,2021,Overnight stays,10
+November,Total,132024.0,2021,Arrivals,11
+November,Icelanders,28533.0,2021,Arrivals,11
+November,Foreigners,103491.0,2021,Arrivals,11
+November,Total,259527.0,2021,Overnight stays,11
+November,Icelanders,45152.0,2021,Overnight stays,11
+November,Foreigners,214375.0,2021,Overnight stays,11
+December,Total,106465.0,2021,Arrivals,12
+December,Icelanders,23545.0,2021,Arrivals,12
+December,Foreigners,82920.0,2021,Arrivals,12
+December,Total,209233.0,2021,Overnight stays,12
+December,Icelanders,36966.0,2021,Overnight stays,12
+December,Foreigners,172267.0,2021,Overnight stays,12
+January,Total,80354.0,2022,Arrivals,1
+January,Icelanders,16796.0,2022,Arrivals,1
+January,Foreigners,63558.0,2022,Arrivals,1
+January,Total,166574.0,2022,Overnight stays,1
+January,Icelanders,29054.0,2022,Overnight stays,1
+January,Foreigners,137520.0,2022,Overnight stays,1
+February,Total,136283.0,2022,Arrivals,2
+February,Icelanders,28664.0,2022,Arrivals,2
+February,Foreigners,107619.0,2022,Arrivals,2
+February,Total,280409.0,2022,Overnight stays,2
+February,Icelanders,50648.0,2022,Overnight stays,2
+February,Foreigners,229761.0,2022,Overnight stays,2
+March,Total,171798.0,2022,Arrivals,3
+March,Icelanders,34634.0,2022,Arrivals,3
+March,Foreigners,137164.0,2022,Arrivals,3
+March,Total,334675.0,2022,Overnight stays,3
+March,Icelanders,55422.0,2022,Overnight stays,3
+March,Foreigners,279253.0,2022,Overnight stays,3
+April,Total,161908.0,2022,Arrivals,4
+April,Icelanders,39856.0,2022,Arrivals,4
+April,Foreigners,122052.0,2022,Arrivals,4
+April,Total,297533.0,2022,Overnight stays,4
+April,Icelanders,62819.0,2022,Overnight stays,4
+April,Foreigners,234714.0,2022,Overnight stays,4
+May,Total,194756.0,2022,Arrivals,5
+May,Icelanders,38728.0,2022,Arrivals,5
+May,Foreigners,156028.0,2022,Arrivals,5
+May,Total,329141.0,2022,Overnight stays,5
+May,Icelanders,56736.0,2022,Overnight stays,5
+May,Foreigners,272405.0,2022,Overnight stays,5
+June,Total,315047.0,2022,Arrivals,6
+June,Icelanders,48179.0,2022,Arrivals,6
+June,Foreigners,266868.0,2022,Arrivals,6
+June,Total,495406.0,2022,Overnight stays,6
+June,Icelanders,67830.0,2022,Overnight stays,6
+June,Foreigners,427576.0,2022,Overnight stays,6
+July,Total,398933.0,2022,Arrivals,7
+July,Icelanders,59596.0,2022,Arrivals,7
+July,Foreigners,339337.0,2022,Arrivals,7
+July,Total,595455.0,2022,Overnight stays,7
+July,Icelanders,77563.0,2022,Overnight stays,7
+July,Foreigners,517892.0,2022,Overnight stays,7
+August,Total,407677.0,2022,Arrivals,8
+August,Icelanders,56423.0,2022,Arrivals,8
+August,Foreigners,351254.0,2022,Arrivals,8
+August,Total,597821.0,2022,Overnight stays,8
+August,Icelanders,76390.0,2022,Overnight stays,8
+August,Foreigners,521431.0,2022,Overnight stays,8
+September,Total,311108.0,2022,Arrivals,9
+September,Icelanders,46528.0,2022,Arrivals,9
+September,Foreigners,264580.0,2022,Arrivals,9
+September,Total,491802.0,2022,Overnight stays,9
+September,Icelanders,68223.0,2022,Overnight stays,9
+September,Foreigners,423579.0,2022,Overnight stays,9
+October,Total,270026.0,2022,Arrivals,10
+October,Icelanders,44901.0,2022,Arrivals,10
+October,Foreigners,225125.0,2022,Arrivals,10
+October,Total,470178.0,2022,Overnight stays,10
+October,Icelanders,70565.0,2022,Overnight stays,10
+October,Foreigners,399613.0,2022,Overnight stays,10
+November,Total,186089.0,2022,Arrivals,11
+November,Icelanders,35061.0,2022,Arrivals,11
+November,Foreigners,151028.0,2022,Arrivals,11
+November,Total,355232.0,2022,Overnight stays,11
+November,Icelanders,55130.0,2022,Overnight stays,11
+November,Foreigners,300102.0,2022,Overnight stays,11
+December,Total,164271.0,2022,Arrivals,12
+December,Icelanders,30944.0,2022,Arrivals,12
+December,Foreigners,133327.0,2022,Arrivals,12
+December,Total,317456.0,2022,Overnight stays,12
+December,Icelanders,47298.0,2022,Overnight stays,12
+December,Foreigners,270158.0,2022,Overnight stays,12
+January,Total,151685.0,2023,Arrivals,1
+January,Icelanders,26094.0,2023,Arrivals,1
+January,Foreigners,125591.0,2023,Arrivals,1
+January,Total,312739.0,2023,Overnight stays,1
+January,Icelanders,43822.0,2023,Overnight stays,1
+January,Foreigners,268917.0,2023,Overnight stays,1
+February,Total,190822.0,2023,Arrivals,2
+February,Icelanders,28246.0,2023,Arrivals,2
+February,Foreigners,162576.0,2023,Arrivals,2
+February,Total,372895.0,2023,Overnight stays,2
+February,Icelanders,49638.0,2023,Overnight stays,2
+February,Foreigners,323257.0,2023,Overnight stays,2
+March,Total,233462.0,2023,Arrivals,3
+March,Icelanders,36687.0,2023,Arrivals,3
+March,Foreigners,196775.0,2023,Arrivals,3
+March,Total,424703.0,2023,Overnight stays,3
+March,Icelanders,56687.0,2023,Overnight stays,3
+March,Foreigners,368016.0,2023,Overnight stays,3
+April,Total,209134.0,2023,Arrivals,4
+April,Icelanders,36354.0,2023,Arrivals,4
+April,Foreigners,172780.0,2023,Arrivals,4
+April,Total,365745.0,2023,Overnight stays,4
+April,Icelanders,55209.0,2023,Overnight stays,4
+April,Foreigners,310536.0,2023,Overnight stays,4
+May,Total,257244.0,2023,Arrivals,5
+May,Icelanders,41304.0,2023,Arrivals,5
+May,Foreigners,215940.0,2023,Arrivals,5
+May,Total,415719.0,2023,Overnight stays,5
+May,Icelanders,59632.0,2023,Overnight stays,5
+May,Foreigners,356087.0,2023,Overnight stays,5
+June,Total,330720.0,2023,Arrivals,6
+June,Icelanders,44618.0,2023,Arrivals,6
+June,Foreigners,286102.0,2023,Arrivals,6
+June,Total,509571.0,2023,Overnight stays,6
+June,Icelanders,64996.0,2023,Overnight stays,6
+June,Foreigners,444575.0,2023,Overnight stays,6
+July,Total,408665.0,2023,Arrivals,7
+July,Icelanders,55642.0,2023,Arrivals,7
+July,Foreigners,353023.0,2023,Arrivals,7
+July,Total,595900.0,2023,Overnight stays,7
+July,Icelanders,73356.0,2023,Overnight stays,7
+July,Foreigners,522544.0,2023,Overnight stays,7
+August,Total,406729.0,2023,Arrivals,8
+August,Icelanders,47285.0,2023,Arrivals,8
+August,Foreigners,359444.0,2023,Arrivals,8
+August,Total,594589.0,2023,Overnight stays,8
+August,Icelanders,64289.0,2023,Overnight stays,8
+August,Foreigners,530300.0,2023,Overnight stays,8
+September,Total,336242.0,2023,Arrivals,9
+September,Icelanders,42133.0,2023,Arrivals,9
+September,Foreigners,294109.0,2023,Arrivals,9
+September,Total,519252.0,2023,Overnight stays,9
+September,Icelanders,58937.0,2023,Overnight stays,9
+September,Foreigners,460315.0,2023,Overnight stays,9
+October,Total,298504.0,2023,Arrivals,10
+October,Icelanders,38858.0,2023,Arrivals,10
+October,Foreigners,259646.0,2023,Arrivals,10
+October,Total,493935.0,2023,Overnight stays,10
+October,Icelanders,58699.0,2023,Overnight stays,10
+October,Foreigners,435236.0,2023,Overnight stays,10
+November,Total,197785.0,2023,Arrivals,11
+November,Icelanders,33503.0,2023,Arrivals,11
+November,Foreigners,164282.0,2023,Arrivals,11
+November,Total,363452.0,2023,Overnight stays,11
+November,Icelanders,51058.0,2023,Overnight stays,11
+November,Foreigners,312394.0,2023,Overnight stays,11
+December,Total,152690.0,2023,Arrivals,12
+December,Icelanders,26068.0,2023,Arrivals,12
+December,Foreigners,126622.0,2023,Arrivals,12
+December,Total,295384.0,2023,Overnight stays,12
+December,Icelanders,38407.0,2023,Overnight stays,12
+December,Foreigners,256977.0,2023,Overnight stays,12
+January,Total,140171.0,2024,Arrivals,1
+January,Icelanders,20509.0,2024,Arrivals,1
+January,Foreigners,119662.0,2024,Arrivals,1
+January,Total,287990.0,2024,Overnight stays,1
+January,Icelanders,32907.0,2024,Overnight stays,1
+January,Foreigners,255083.0,2024,Overnight stays,1
+February,Total,216418.0,2024,Arrivals,2
+February,Icelanders,31887.0,2024,Arrivals,2
+February,Foreigners,184531.0,2024,Arrivals,2
+February,Total,384489.0,2024,Overnight stays,2
+February,Icelanders,48633.0,2024,Overnight stays,2
+February,Foreigners,335856.0,2024,Overnight stays,2
+March,Total,256870.0,2024,Arrivals,3
+March,Icelanders,45142.0,2024,Arrivals,3
+March,Foreigners,211728.0,2024,Arrivals,3
+March,Total,439640.0,2024,Overnight stays,3
+March,Icelanders,68031.0,2024,Overnight stays,3
+March,Foreigners,371609.0,2024,Overnight stays,3
+April,Total,202291.0,2024,Arrivals,4
+April,Icelanders,41254.0,2024,Arrivals,4
+April,Foreigners,161037.0,2024,Arrivals,4
+April,Total,332598.0,2024,Overnight stays,4
+April,Icelanders,61628.0,2024,Overnight stays,4
+April,Foreigners,270970.0,2024,Overnight stays,4
+May,Total,249880.0,2024,Arrivals,5
+May,Icelanders,48127.0,2024,Arrivals,5
+May,Foreigners,201753.0,2024,Arrivals,5
+May,Total,392545.0,2024,Overnight stays,5
+May,Icelanders,66736.0,2024,Overnight stays,5
+May,Foreigners,325809.0,2024,Overnight stays,5
+June,Total,317855.0,2024,Arrivals,6
+June,Icelanders,55010.0,2024,Arrivals,6
+June,Foreigners,262845.0,2024,Arrivals,6
+June,Total,487609.0,2024,Overnight stays,6
+June,Icelanders,75878.0,2024,Overnight stays,6
+June,Foreigners,411731.0,2024,Overnight stays,6
+July,Total,392670.0,2024,Arrivals,7
+July,Icelanders,68289.0,2024,Arrivals,7
+July,Foreigners,324381.0,2024,Arrivals,7
+July,Total,576042.0,2024,Overnight stays,7
+July,Icelanders,92271.0,2024,Overnight stays,7
+July,Foreigners,483771.0,2024,Overnight stays,7
+August,Total,417438.0,2024,Arrivals,8
+August,Icelanders,68183.0,2024,Arrivals,8
+August,Foreigners,349255.0,2024,Arrivals,8
+August,Total,608749.0,2024,Overnight stays,8
+August,Icelanders,92447.0,2024,Overnight stays,8
+August,Foreigners,516302.0,2024,Overnight stays,8
+September,Total,338740.0,2024,Arrivals,9
+September,Icelanders,50449.0,2024,Arrivals,9
+September,Foreigners,288291.0,2024,Arrivals,9
+September,Total,512869.0,2024,Overnight stays,9
+September,Icelanders,68477.0,2024,Overnight stays,9
+September,Foreigners,444392.0,2024,Overnight stays,9
+October,Total,320410.0,2024,Arrivals,10
+October,Icelanders,55993.0,2024,Arrivals,10
+October,Foreigners,264417.0,2024,Arrivals,10
+October,Total,516750.0,2024,Overnight stays,10
+October,Icelanders,81154.0,2024,Overnight stays,10
+October,Foreigners,435596.0,2024,Overnight stays,10
+November,Total,221741.0,2024,Arrivals,11
+November,Icelanders,47043.0,2024,Arrivals,11
+November,Foreigners,174698.0,2024,Arrivals,11
+November,Total,390706.0,2024,Overnight stays,11
+November,Icelanders,65847.0,2024,Overnight stays,11
+November,Foreigners,324859.0,2024,Overnight stays,11
+December,Total,181374.0,2024,Arrivals,12
+December,Icelanders,32271.0,2024,Arrivals,12
+December,Foreigners,149103.0,2024,Arrivals,12
+December,Total,338675.0,2024,Overnight stays,12
+December,Icelanders,45054.0,2024,Overnight stays,12
+December,Foreigners,293621.0,2024,Overnight stays,12
+January,Total,157518.0,2025,Arrivals,1
+January,Icelanders,26319.0,2025,Arrivals,1
+January,Foreigners,131199.0,2025,Arrivals,1
+January,Total,294144.0,2025,Overnight stays,1
+January,Icelanders,37715.0,2025,Overnight stays,1
+January,Foreigners,256429.0,2025,Overnight stays,1
+February,Total,186237.0,2025,Arrivals,2
+February,Icelanders,25328.0,2025,Arrivals,2
+February,Foreigners,160909.0,2025,Arrivals,2
+February,Total,369029.0,2025,Overnight stays,2
+February,Icelanders,39074.0,2025,Overnight stays,2
+February,Foreigners,329955.0,2025,Overnight stays,2
+March,Total,231807.0,2025,Arrivals,3
+March,Icelanders,36075.0,2025,Arrivals,3
+March,Foreigners,195732.0,2025,Arrivals,3
+March,Total,420034.0,2025,Overnight stays,3
+March,Icelanders,52731.0,2025,Overnight stays,3
+March,Foreigners,367303.0,2025,Overnight stays,3
+April,Total,206822.0,2025,Arrivals,4
+April,Icelanders,30823.0,2025,Arrivals,4
+April,Foreigners,175999.0,2025,Arrivals,4
+April,Total,372349.0,2025,Overnight stays,4
+April,Icelanders,45627.0,2025,Overnight stays,4
+April,Foreigners,326722.0,2025,Overnight stays,4
+May,Total,248083.0,2025,Arrivals,5
+May,Icelanders,40685.0,2025,Arrivals,5
+May,Foreigners,207398.0,2025,Arrivals,5
+May,Total,428392.0,2025,Overnight stays,5
+May,Icelanders,57507.0,2025,Overnight stays,5
+May,Foreigners,370885.0,2025,Overnight stays,5
+June,Total,323881.0,2025,Arrivals,6
+June,Icelanders,33935.0,2025,Arrivals,6
+June,Foreigners,289946.0,2025,Arrivals,6
+June,Total,534533.0,2025,Overnight stays,6
+June,Icelanders,48595.0,2025,Overnight stays,6
+June,Foreigners,485938.0,2025,Overnight stays,6
+July,Total,394137.0,2025,Arrivals,7
+July,Icelanders,42872.0,2025,Arrivals,7
+July,Foreigners,351265.0,2025,Arrivals,7
+July,Total,648627.0,2025,Overnight stays,7
+July,Icelanders,60068.0,2025,Overnight stays,7
+July,Foreigners,588559.0,2025,Overnight stays,7
+August,Total,408886.0,2025,Arrivals,8
+August,Icelanders,37558.0,2025,Arrivals,8
+August,Foreigners,371328.0,2025,Arrivals,8
+August,Total,669564.0,2025,Overnight stays,8
+August,Icelanders,51110.0,2025,Overnight stays,8
+August,Foreigners,618454.0,2025,Overnight stays,8
+September,Total,315728.0,2025,Arrivals,9
+September,Icelanders,35937.0,2025,Arrivals,9
+September,Foreigners,279791.0,2025,Arrivals,9
+September,Total,544038.0,2025,Overnight stays,9
+September,Icelanders,49506.0,2025,Overnight stays,9
+September,Foreigners,494532.0,2025,Overnight stays,9
+October,Total,284131.0,2025,Arrivals,10
+October,Icelanders,38518.0,2025,Arrivals,10
+October,Foreigners,245613.0,2025,Arrivals,10
+October,Total,503378.0,2025,Overnight stays,10
+October,Icelanders,53841.0,2025,Overnight stays,10
+October,Foreigners,449537.0,2025,Overnight stays,10
+November,Total,185896.0,2025,Arrivals,11
+November,Icelanders,36440.0,2025,Arrivals,11
+November,Foreigners,149456.0,2025,Arrivals,11
+November,Total,362826.0,2025,Overnight stays,11
+November,Icelanders,50543.0,2025,Overnight stays,11
+November,Foreigners,312283.0,2025,Overnight stays,11
+December,Total,147328.0,2025,Arrivals,12
+December,Icelanders,24073.0,2025,Arrivals,12
+December,Foreigners,123255.0,2025,Arrivals,12
+December,Total,297549.0,2025,Overnight stays,12
+December,Icelanders,32552.0,2025,Overnight stays,12
+December,Foreigners,264997.0,2025,Overnight stays,12
+January,Total,145566.0,2026,Arrivals,1
+January,Icelanders,20476.0,2026,Arrivals,1
+January,Foreigners,125090.0,2026,Arrivals,1
+January,Total,277722.0,2026,Overnight stays,1
+January,Icelanders,28880.0,2026,Overnight stays,1
+January,Foreigners,248842.0,2026,Overnight stays,1
+February,Total,222144.0,2026,Arrivals,2
+February,Icelanders,27201.0,2026,Arrivals,2
+February,Foreigners,194943.0,2026,Arrivals,2
+February,Total,388956.0,2026,Overnight stays,2
+February,Icelanders,38996.0,2026,Overnight stays,2
+February,Foreigners,349960.0,2026,Overnight stays,2
+March,Total,263656.0,2026,Arrivals,3
+March,Icelanders,33878.0,2026,Arrivals,3
+March,Foreigners,229778.0,2026,Arrivals,3
+March,Total,431965.0,2026,Overnight stays,3
+March,Icelanders,46721.0,2026,Overnight stays,3
+March,Foreigners,385244.0,2026,Overnight stays,3
